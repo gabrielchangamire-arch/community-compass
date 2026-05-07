@@ -16,7 +16,7 @@ It does three things:
 
 1. **Find help.** 17 categories — food, housing, dental, mental health, safety/abuse, immigrant support, education, scholarships, tutoring, libraries, transportation, recreation, childcare, healthcare, benefits, jobs, legal aid — each with curated real organizations, phone numbers, and websites.
 2. **Give help.** Vetted local + global nonprofits grouped by cause (Charity Navigator 4-star or GiveWell-recommended), plus real volunteer shifts.
-3. **Show that good is winning.** Long-run data from Our World in Data, UNICEF, World Bank, and UNESCO — to balance the news cycle with reality.
+3. **Show that good is winning.** Two layers: long-run trends from Our World in Data / UNICEF / World Bank / UNESCO, plus a **weekly-refreshed feed of fresh stories** pulled from Good News Network, Positive News, and Reasons to be Cheerful — filtered through DistilBERT so only strongly-positive items make it through.
 
 ## Tech
 
@@ -97,6 +97,26 @@ To add a whole new city:
 
 1. Add city names to the `areas` arrays of relevant resources.
 2. If you want city-scoped views, file an issue first — the structure is ready for it but the routing needs a tweak.
+
+## How the fresh-good-news feed works
+
+Static-site-friendly pipeline, no runtime backend, no per-visitor cost:
+
+```
+GitHub Action (cron, weekly)
+  └─ scripts/refresh_good_news.py
+       ├─ feedparser pulls RSS from 3 reputable good-news outlets
+       ├─ DistilBERT (HuggingFace) scores every (title + blurb)
+       ├─ keep items with positive-sentiment probability >= 0.7
+       └─ write src/data/freshGoodNews.json
+  └─ commit if changed → triggers Pages redeploy → site shows fresh stories
+```
+
+- **Sources** are intentionally already-curated. The model is a sanity filter, not the curator.
+- **Threshold** (0.7) is tunable in `scripts/refresh_good_news.py`. With a defensive fallback so the feed never goes empty if a week is unusually negative.
+- **Schedule:** Mondays at 09:00 UTC; can be triggered manually from the Actions tab.
+- **Local dev** doesn't need Python — the script is only run by the Action. The committed JSON is what the site reads.
+- **Cost:** GitHub Actions free tier on public repos easily covers the weekly run (~5 minutes per execution).
 
 ## Roadmap
 
