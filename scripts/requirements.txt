@@ -1,0 +1,5 @@
+# Used only by .github/workflows/refresh-good-news.yml
+# Local React dev does not need any of these.
+feedparser>=6.0.10
+transformers>=4.40,<5.0
+torch>=2.2

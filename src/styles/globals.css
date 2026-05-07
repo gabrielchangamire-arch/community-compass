@@ -1101,6 +1101,108 @@ svg {
   margin-bottom: 0.6rem;
 }
 
+/* 10b. Fresh news (DistilBERT-filtered RSS) */
+.fresh-section-head .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.fresh-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: var(--bg-warm);
+  font-size: 0.74rem;
+  color: var(--text-muted);
+  align-self: flex-start;
+}
+.fresh-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1rem;
+  padding: 1rem 0 3.5rem;
+}
+.fresh-card {
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 1.4rem 1.4rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  position: relative;
+  transition: transform 0.2s var(--ease), border-color 0.2s var(--ease);
+}
+.fresh-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--good);
+}
+.fresh-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.74rem;
+  color: var(--text-muted);
+}
+.fresh-card-source {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  color: var(--good-deep);
+}
+.fresh-card-date {
+  font-variant-numeric: tabular-nums;
+}
+.fresh-card-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.3;
+}
+.fresh-card-blurb {
+  margin: 0;
+  color: var(--text-soft);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  flex: 1;
+}
+.fresh-card-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 0.3rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--line-soft);
+}
+.fresh-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--need-deep);
+  border: 0;
+}
+.fresh-card-link:hover {
+  color: var(--text);
+  border: 0;
+}
+.fresh-card-score {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: var(--good-tint);
+  color: var(--good-deep);
+  font-variant-numeric: tabular-nums;
+}
+
 /* 11. Animations */
 .page {
   animation: fadeUp 0.5s var(--ease);
