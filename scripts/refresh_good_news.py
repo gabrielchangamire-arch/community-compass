@@ -5,8 +5,9 @@ Pipeline:
   1. Fetch recent items from a small allowlist of reputable good-news RSS feeds.
   2. Score every (title + description) with DistilBERT-SST2 (HuggingFace) so
      the filter is real, not heuristic.
-  3. Keep the top N most-positive, deduplicate by URL, sort by recency.
-  4. Write the result to src/data/freshGoodNews.json.
+  3. Drop low-quality / off-topic noise items (spam, sponsored, clickbait).
+  4. Keep the most-positive, deduplicate by URL, sort by recency.
+  5. Write the result to src/data/freshGoodNews.json.
 
 Run by the GitHub Action `.github/workflows/refresh-good-news.yml` on a weekly
 cron and committed back to the repo. The static site reads the JSON directly.
@@ -21,6 +22,7 @@ from __future__ import annotations
 import datetime as dt
 import html
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -46,6 +48,19 @@ MAX_ITEMS = 12
 
 # Pull this many from each feed before filtering.
 PER_SOURCE_LIMIT = 8
+
+# Even reputable RSS feeds occasionally surface sponsored posts, dating-site
+# spam, or off-topic clickbait. The NOISE_TERMS environment variable accepts
+# an optional comma-separated list of substrings; items whose title or blurb
+# contains any of them are treated as noise and dropped.
+def _load_noise_terms() -> list[str]:
+    raw = os.environ.get("NOISE_TERMS", "").strip()
+    if not raw:
+        return []
+    return [t.strip().lower() for t in raw.split(",") if t.strip()]
+
+
+_NOISE_TERMS = _load_noise_terms()
 
 # Output path (relative to repo root, which is this script's parent's parent).
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -177,6 +192,27 @@ def dedupe(items: Iterable[dict]) -> list[dict]:
     return out
 
 
+def _is_noise(item: dict) -> bool:
+    """True if the item looks like sponsored / spammy content per NOISE_TERMS."""
+    if not _NOISE_TERMS:
+        return False
+    text = f"{item.get('title', '')} {item.get('blurb', '')}".lower()
+    return any(term in text for term in _NOISE_TERMS)
+
+
+def drop_noise(items: Iterable[dict]) -> list[dict]:
+    out = []
+    dropped = 0
+    for it in items:
+        if _is_noise(it):
+            dropped += 1
+            continue
+        out.append(it)
+    if dropped:
+        print(f"[noise] dropped {dropped} low-quality item(s)", flush=True)
+    return out
+
+
 def main() -> int:
     raw = fetch_all()
     if not raw:
@@ -185,6 +221,7 @@ def main() -> int:
 
     raw = dedupe(raw)
     scored = score_with_distilbert(raw)
+    scored = drop_noise(scored)
 
     kept = [it for it in scored if it["score"] >= POSITIVE_THRESHOLD]
     if len(kept) < 4:
