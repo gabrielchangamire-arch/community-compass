@@ -1,15 +1,79 @@
 {
-  "generated_at": "2026-05-07T08:43:18Z",
+  "generated_at": "2026-05-11T11:54:53Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Good News in History, May 7",
-      "blurb": "80 years ago today, the innovative electronics company, Tokyo Telecommunications Engineering, co-founded by Akio Morita and Masaru Ibuka, first began operations. With 20 employees, and later taking the name Sony, they built Japan\u2019s first tape recorder. In 1955, Sony\u2019s transistor\u2026",
+      "title": "Good News in History, May 11",
+      "blurb": "122 years ago today, Salvador Dali was born. Known for his striking and bizarre images, he is one of, if not the most famous surrealist painter in history. Inspired by the Renaissance masters, Dali nevertheless gravitated to the surrealist movements in the early 20th century. He\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060508/",
-      "date": "2026-05-07",
-      "score": 0.9984
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060511/",
+      "date": "2026-05-11",
+      "score": 0.9996
+    },
+    {
+      "title": "Life lessons: Ellie Simmonds on what life so far has taught her",
+      "blurb": "Paralympic gold medallist and broadcaster Ellie Simmonds OBE reflects on the lessons that have carried her from the pool to life beyond elite sport The post Life lessons: Ellie Simmonds on what life so far has taught her appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/life-lessons-ellie-simmonds-on-what-life-so-far-has-taught-her/",
+      "date": "2026-05-11",
+      "score": 0.999
+    },
+    {
+      "title": "Asiatic Wild Ass Returns to Eastern Mongolia After 65-year Isolation from Landscape Fencing",
+      "blurb": "The Asiatic wild ass, known locally as the khulan (Equus hemionus), has returned to eastern Mongolia and is showing clear signs of re-establishing a population after more than 65 years of absence from the region. For decades, fencing along the Trans-Mongolian Railway (TMR) has r\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/asiatic-wild-ass-returns-to-eastern-mongolia-after-65-year-isolation-from-landscape-fencing/",
+      "date": "2026-05-11",
+      "score": 0.9935
+    },
+    {
+      "title": "Good News in History, May 10",
+      "blurb": "Happy 80th Birthday to the Scottish singer, songwriter, and guitarist, known by the single name, Donovan. He recorded a string of hits such as Catch the Wind, Sunshine Superman, Season of the Witch, Mellow Yellow, Atlantis, and Hurdy Gurdy Man, and was inducted into the Rock and\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060510/",
+      "date": "2026-05-10",
+      "score": 0.9999
+    },
+    {
+      "title": "Rare Split-Colored Lobster Caught Near Cape Cod is Donated to Aquarium: A One in 50 Million Catch (LOOK)",
+      "blurb": "It may not exhibit a split personality, but this lobster is so unique that the chances of catching it are around one in 50 million. The Wellfleet Shellfish Company announced that a split-colored lobster was caught off the coast of Cape Cod by a local fishing crew aboard the Timo\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/rare-split-colored-lobster-caught-near-cape-cod-is-donated-to-aquarium/",
+      "date": "2026-05-10",
+      "score": 0.995
+    },
+    {
+      "title": "Africa\u2019s Rarest Antelope Gets Boost as Zoos Send 4 Bongos to Kenya to Help Save the Species From the Brink",
+      "blurb": "Four mountain bongos, Africa\u2019s rarest species of antelope, have just touched down in Kenya in a major step forward in efforts to save the species from the brink of extinction. With fewer than 50 remaining in the wild, the historic translocation from European zoos to Mount Kenya\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/africas-rarest-antelope-gets-boost-as-zoos-send-4-bongos-to-kenya-to-help-save-the-species/",
+      "date": "2026-05-09",
+      "score": 0.9986
+    },
+    {
+      "title": "In a Thrilling Comeback Victory Cherrie DeVaux Becomes First Female Trainer to Win Kentucky Derby (WATCH)",
+      "blurb": "The buzzer rang, the gates opened, and before the first turn, the horse that would help make history at the Kentucky Derby was coming in dead last\u2014not surprising as Golden Tempo had 23-1 odds to win the iconic race. The odds seemed about right, as the horse had been battling a h\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/in-thrilling-comeback-victory-cherrie-devaux-becomes-first-female-trainer-to-win-kentucky-derby-watch/",
+      "date": "2026-05-09",
+      "score": 0.9742
+    },
+    {
+      "title": "15 of the best quotes from Sir David Attenborough",
+      "blurb": "On his 100th birthday, we share some of our favourite quotes from the broadcaster and natural historian The post 15 of the best quotes from Sir David Attenborough appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/15-of-the-best-quotes-from-sir-david-attenborough/",
+      "date": "2026-05-08",
+      "score": 0.9997
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "blurb": "There were big health wins, Mexico pledged free healthcare for all, and Amsterdam ditched fossil fuel ads, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-19-of-2026/",
+      "date": "2026-05-08",
+      "score": 0.9973
     },
     {
       "title": "Young inventor plans to stop 90% of floating sea plastic by 2040",
@@ -28,76 +92,12 @@
       "score": 0.9865
     },
     {
-      "title": "Good News in History, May 6",
-      "blurb": "Happy 65th Birthday to George Clooney, the actor, director, screenwriter, and producer who\u2019s won two Academy Awards, four Golden Globes, as well as nominations for three Primetime Emmy Awards and a Tony Award. Born in Kentucky\u2014with singer-actress Rosemary Clooney as an aunt\u2014he r\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060506/",
-      "date": "2026-05-06",
-      "score": 0.9998
-    },
-    {
       "title": "\u2018Almost life-saving\u2019, Moby on the healing power of sound",
       "blurb": "Electronic pioneer Moby explains how sound brings him calm after a lifelong battle with anxiety The post \u2018Almost life-saving\u2019, Moby on the healing power of sound appeared first on Positive News .",
       "sourceLabel": "Positive News",
       "sourceUrl": "https://www.positive.news/lifestyle/arts/almost-life-saving-moby-on-the-healing-power-of-sound/",
       "date": "2026-05-06",
       "score": 0.9997
-    },
-    {
-      "title": "New Desalination Plant Gives San Diego So Much Water it\u2019s Helping Other States Suffering Drought",
-      "blurb": "After years of suffering from drought, San Diego is using the resources it built up over that time to help neighboring states now facing their own water challenges. Arizona and Nevada are pursuing agreements with the San Diego County Water Authority (SDCWA) to siphon off its sha\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/thanks-to-desalination-plant-san-diego-has-so-much-water-its-helping-other-states-suffering-drought/",
-      "date": "2026-05-06",
-      "score": 0.9802
-    },
-    {
-      "title": "What We\u2019re Reading: No Mow May Gets Wild",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. No mow FOMO We\u2019ve long been sold on the benefits of even very small wild patches \u2014 we\u2019ve\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-no-mow-may-gets-wild/",
-      "date": "2026-05-06",
-      "score": 0.9057
-    },
-    {
-      "title": "Second act: the pioneers giving green tech a new spin",
-      "blurb": "Forward-thinking clean-tech leaders are giving yesterday\u2019s hardware a second life \u2013 turning it into tomorrow\u2019s power The post Second act: the pioneers giving green tech a new spin appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/second-act-the-pioneers-giving-green-tech-a-new-spin/",
-      "date": "2026-05-05",
-      "score": 0.9993
-    },
-    {
-      "title": "Bach to the future at iconic jazz venue",
-      "blurb": "Ronnie Scott\u2019s embraces classical with new weekly orchestral performances in its refurbished upstairs venue The post Bach to the future at iconic jazz venue appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/bach-to-the-future-at-iconic-jazz-venue/",
-      "date": "2026-05-04",
-      "score": 0.9995
-    },
-    {
-      "title": "Could This Fish Be a Notebook?",
-      "blurb": "Forget AI \u2014 in Iceland, the truly exciting startups are working in fish. From medical bandages to sustainable furniture, the Icelandic fishing industry has learned to extract value from virtually every part of its catch, putting the country at the forefront of a global \u201cblue eco\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/great-lakes-fish-interview/",
-      "date": "2026-05-04",
-      "score": 0.9917
-    },
-    {
-      "title": "Woodland walks cut anxiety, study finds",
-      "blurb": "Research shows self-led woodland trails can cut anxiety and strengthen people\u2019s connection The post Woodland walks cut anxiety, study finds appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/",
-      "date": "2026-05-04",
-      "score": 0.9901
-    },
-    {
-      "title": "The Spark: How Death Teaches Us to Connect",
-      "blurb": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful\u2019s weekly newsletter here and you\u2019ll get The Spark in you\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/the-spark-how-death-teaches-us-to-connect/",
-      "date": "2026-05-01",
-      "score": 0.9996
     }
   ]
 }
