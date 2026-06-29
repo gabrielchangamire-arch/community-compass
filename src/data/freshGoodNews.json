@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-06-22T14:22:24Z",
+  "generated_at": "2026-06-29T12:54:57Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "The Coffee Academy Serving Up Career Paths",
-      "blurb": "\u201cI\u2019ve been told a lot that this is the best coffee on this street,\u201d says Sana Pishgoo, owner of Shiraz Patisserie in north London. \u201cI\u2019ve also been told I have the best Iranian cakes in London.\u201d A skilled pastry chef and cake maker, Pishgoo, 45, set up her business in... The post\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/well-grounded-coffee-jobs/",
-      "date": "2026-06-22",
-      "score": 0.9997
-    },
-    {
-      "title": "Good News in History, June 22",
-      "blurb": "76 years ago today, Walt Disney Productions released Lady and the Tramp, then advertised as Disney\u2019s \u201chappiest motion picture yet.\u201d The film follows Lady, the pampered cocker spaniel, as she grows from puppy to adult, deals with changes in her family, and meets and falls in love\u2026",
+      "title": "Good News in History, June 29",
+      "blurb": "70 years ago today, the Interstate Highway System was established in the US to create a national road grid that today totals 48,440 miles across all 50 states (78,000 km). It ushered in the first national road numbering system for cross-country travel and they all have unified s\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060622/",
-      "date": "2026-06-22",
-      "score": 0.9995
-    },
-    {
-      "title": "Can volunteering abroad build the next generation of global citizens?",
-      "blurb": "Overseas volunteering can offer a practical route into global citizenship \u2013 one built through classrooms, communities and cross-cultural exchange The post Can volunteering abroad build the next generation of global citizens? appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/youth/can-volunteering-abroad-build-the-next-generation-of-global-citizens/",
-      "date": "2026-06-22",
-      "score": 0.9923
-    },
-    {
-      "title": "Activist Wins 10-Year Battle to See That Child Abuse Is Considered Above All Else in NY Custody Trials",
-      "blurb": "New legislation that will compel New York judges to consider domestic violence or child abuse charges and risks\u2014above all else\u2014in child custody decisions, could soon become law. Resulting from a decade of work from a dedicated mother, bills known as \u201cKyra\u2019s Law\u201d passed both the\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/activist-wins-10-year-battle-to-see-that-child-abuse-is-considered-above-all-else-in-ny-custody-trials/",
-      "date": "2026-06-22",
-      "score": 0.9492
-    },
-    {
-      "title": "Given Just 8 Months to Live, Teen Graduates Cancer-Free 4 Years Later Thanks to Doctor\u2019s Promise (Watch)",
-      "blurb": "At the age of 14, Dylan was diagnosed with Stage 4 kidney cancer\u2014and doctors gave him just eight months to live. But he\u2019s alive today thanks to Dr. Mary Austin, who not only treated his disease, but transformed his thinking\u2014through friendship and a solemn promise. She urged him\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/given-just-8-months-to-live-teen-is-cancer-free-4-years-on-thanks-to-doctors-promise/",
-      "date": "2026-06-21",
-      "score": 0.9997
-    },
-    {
-      "title": "30,000 Scottish Descend on Boston for World Cup\u2013And the Amazing Viral Videos Remind Us We\u2019re All Neighbors",
-      "blurb": "It\u2019s estimated that 30,000 Scottish football fans descended on the city of Boson last week, and the ensuing shenanigans have been so generational that folk songs are being written about it. The World Cup-winning friendships that developed between locals and the Scots went viral\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/30000-scots-descend-on-boston-for-world-cup/",
-      "date": "2026-06-21",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060629/",
+      "date": "2026-06-29",
       "score": 0.9996
     },
     {
-      "title": "Good News in History, June 21",
-      "blurb": "Happy 59th Birthday to eBay founder Pierre Omidyar. The computer geek entrepreneur became a billionaire at age 31 when the company\u2019s stock was offered for sale to the public three years after the first eBay auction in 1995. READ more about Omidyar and his activities\u2026 (1967) Omid\u2026",
+      "title": "Billion-Dollar Program Connects 50 Million People to the Power Grid Across Africa",
+      "blurb": "50 million Africans living in 40 countries now have access to electricity for the first time thanks to a $15 billion development initiative by the World Bank and African Development Bank Group (ADB). Called Mission 300, it aims to halve the number of people living without reliab\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060621/",
-      "date": "2026-06-21",
-      "score": 0.9982
+      "sourceUrl": "https://www.goodnewsnetwork.org/billion-dollar-program-connects-50-million-people-to-the-power-grid-across-africa/",
+      "date": "2026-06-29",
+      "score": 0.9904
     },
     {
-      "title": "A Golden-Ringed Jewel: Britain\u2019s Longest Dragonfly Hitches Ride on Woman\u2019s Thumb (LOOK and LEARN)",
-      "blurb": "A woman was stunned when Britain\u2019s longest dragonfly stopped to hitch a ride\u2014on her thumb. Sarah Hawkes came across the striking Golden-Ringed Dragonfly when walking near the Ceiriog River in Wales. The insects can grow up to 4 inches (9cm) with a wingspan just as long. Sarah, w\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/britains-longest-dragonfly-hitches-ride-on-womans-thumb/",
-      "date": "2026-06-21",
-      "score": 0.9958
+      "title": "Why Ukraine is rewilding in the heat of war",
+      "blurb": "The environment usually takes a backseat in times of conflict. But in Ukraine a rewilding project is sowing seeds for a greener, more peaceful future The post Why Ukraine is rewilding in the heat of war appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/why-ukraine-is-rewilding-in-the-heat-of-war/",
+      "date": "2026-06-29",
+      "score": 0.9554
     },
     {
-      "title": "UK Startup is Making Electricity From Bacteria in the Soil \u2013 Maybe Your Garden Will Power Your Home Some Day",
-      "blurb": "British startup Bactery says its battery, powered by bacteria, uses nature\u2019s microbes to generate an unending trickle of power\u2014and by stringing the prototypes together they can generate a stream. Bactery founder and CEO Jakub Dziegielowski says the device complements standard re\u2026",
+      "title": "Good News in History, June 28",
+      "blurb": "Happy 100th Birthday to Mel Brooks, the comic and writer who became the legendary director of comedies like Blazing Saddles, Young Frankenstein, and The Producers. One of the most successful film directors of the 1970s, Brooks was married to actress Anne Bancroft for 41 years un\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/uk-startup-is-making-electricity-from-bacteria-in-soil/",
-      "date": "2026-06-21",
-      "score": 0.9861
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060628/",
+      "date": "2026-06-28",
+      "score": 0.9998
+    },
+    {
+      "title": "High Tech Jacket Prototype Pulls Drinking Water From Thin Air \u2013 Up to 1.5 Pints Per Day",
+      "blurb": "A new high tech jacket developed by engineers at the University of Texas can pull drinking water from thin air. With the advance in fabric technology, the jacket can collect up to one-and-a-half pints of drinkable water a day, say scientists. They suggest the ground-breaking tec\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/prototype-high-tech-jacket-pulls-drinking-water-from-thin-air/",
+      "date": "2026-06-28",
+      "score": 0.9902
+    },
+    {
+      "title": "Woman Wins Lottery And Immediately Gives Neighbor 5,000 to Take the Family on Vacation",
+      "blurb": "A 48-year-old woman who won a million in the lottery immediately gave her neighbors a gift of five thousand, so they can travel on their first family vacation abroad. Honorata Jamrozik scooped up the life-changing tax-free prize in the UK Omaze Monthly Millionaire Draw\u2014and her f\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/woman-wins-lottery-and-immediately-gives-neighbor-5000-for-family-vacation/",
+      "date": "2026-06-28",
+      "score": 0.9889
+    },
+    {
+      "title": "Two Garden Ornaments Thought to be \u2018Worthless Concrete\u2019 Turn Out to be Italian Marble Busts Worth Thousands",
+      "blurb": "Two \u201cworthless\u201d garden statues thought to be made of cheap concrete were discovered to be rare 18th-century Italian marble masterpieces, earning the homeowner a nice payday after their sale. An estate-sale expert spotted the tatty chipped busts in the undergrowth around a house\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/two-garden-ornaments-thought-to-be-worthless-concrete-turn-out-to-be-italian-marble-busts/",
+      "date": "2026-06-27",
+      "score": 0.7021
     },
     {
       "title": "What went right this week: the good news that matters",
-      "blurb": "Drug, alcohol and suicide deaths fell in the US, Colombia outlawed FGM and a bird staged a comeback, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "A vaccine \u2018almost eliminated\u2019 a type of cancer, the green economy surged, and India halved its smoking rate, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-25-of-2026/",
-      "date": "2026-06-19",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
+      "date": "2026-06-26",
       "score": 0.9986
     },
     {
-      "title": "Black Women Farmers Are Reclaiming the Land",
-      "blurb": "This story originally appeared on The 19th and GBH News Rooted in Boston. On a sunny morning in June, about two dozen people walk the land of Soul Fire Farm in Rensselaer County in Upstate New York, during a tour. They are participants in a week-long immersion program that inclu\u2026",
+      "title": "\u2018Step aside, humans\u2019: how beavers solved a flooding problem in west London",
+      "blurb": "A London council was facing a big bill to solve a flooding problem \u2013 then beavers came along and fixed it for free The post \u2018Step aside, humans\u2019: how beavers solved a flooding problem in west London appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/how-beavers-solved-a-flooding-problem-in-west-london/",
+      "date": "2026-06-26",
+      "score": 0.9808
+    },
+    {
+      "title": "Six nostalgic gadgets to spark kids\u2019 curiosity this summer",
+      "blurb": "From an instant camera to a pocket microscope, here are six examples of low-tech hardware with a touch of nostalgia for your own childhood The post Six nostalgic gadgets to spark kids\u2019 curiosity this summer appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/youth/low-tech-gadgets-for-your-kids-no-screen-summer/",
+      "date": "2026-06-25",
+      "score": 0.9966
+    },
+    {
+      "title": "Singing the Shopping List: How Music Can Rewire the Brain After Stroke",
+      "blurb": "In 2023, a stroke transformed Naresh Shanbhag, a 53-year-old smooth-talking sales professional in Bengaluru, into someone who was unable to speak words, let alone sentences. \u201cI began physical therapy to regain strength in my paralyzed right side, but forming sentences or remembe\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/black-women-farmers-reclaiming-land/",
-      "date": "2026-06-19",
-      "score": 0.9845
+      "sourceUrl": "https://reasonstobecheerful.world/music-therapy-brain-injury/",
+      "date": "2026-06-25",
+      "score": 0.992
     },
     {
-      "title": "How student art is helping fund change",
-      "blurb": "With this year\u2019s theme exploring identity and unity, Students Rebuild is showing young people how creativity can connect classrooms to communities around the world The post How student art is helping fund change appeared first on Positive News .",
+      "title": "The blind football team opening up the world for women in Mexico",
+      "blurb": "As World Cup fever grips Mexico, one team is helping blind women find confidence, friendship and ambition on the pitch The post The blind football team opening up the world for women in Mexico appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/youth/how-student-art-is-helping-fund-change/",
-      "date": "2026-06-18",
-      "score": 0.9986
+      "sourceUrl": "https://www.positive.news/world/the-blind-football-team-opening-up-the-world-for-women-in-mexico/",
+      "date": "2026-06-24",
+      "score": 0.9987
     }
   ]
 }
