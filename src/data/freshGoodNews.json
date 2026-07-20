@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-07-13T11:47:39Z",
+  "generated_at": "2026-07-20T11:32:46Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Good News in History, July 13",
-      "blurb": "Happy Birthday to Sir Patrick Stewart who turns 86 years old today. The English actor of stage and film grew up poor, yet not only excels in Shakespeare, but plays the lead in his own science fiction series\u2014Captain Jean-Luc Picard in Star Trek: The Next Generation. He also stars\u2026",
+      "title": "Good News in History, July 20",
+      "blurb": "57 years ago today, men first stepped on the moon during NASA\u2019s Apollo 11 mission; Neil Armstrong first, at 10:56pm EST, because he was closest to the door and Buzz Aldrin second. WATCH a look back from the 50th anniversary\u2026 (1969) When the lunar module finally landed on the moo\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-13/",
-      "date": "2026-07-13",
-      "score": 0.9984
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060720/",
+      "date": "2026-07-20",
+      "score": 0.9974
     },
     {
-      "title": "The City That Chose Beauty Over Billboards",
-      "blurb": "\u201cThere used to be a massive block of concrete here, there was an advertising column, it wasn\u2019t so beautiful,\u201d says Gilles Namur, waving his hand along the length of Cours Lafontaine, a street that runs through the historic center of Grenoble. Today, it\u2019s a different sight altoge\u2026",
+      "title": "What If We Never Built Another New Building?",
+      "blurb": "Swiss architect Barbara Buser has spent decades proving that the greenest building is often the one already standing. When one unscrews a section of the bright red sheet metal fa\u00e7ade from K.118, a former carpentry factory in Winterthur, Switzerland, the interior reveals somethin\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "date": "2026-07-13",
-      "score": 0.995
+      "sourceUrl": "https://reasonstobecheerful.world/what-if-we-never-built-another-new-building/",
+      "date": "2026-07-20",
+      "score": 0.9968
     },
     {
-      "title": "Firm Breaks Ground on First Advanced Nuclear Reactor in America to Power Data Centers for Less",
-      "blurb": "A nuclear energy firm has broke ground on the first advanced nuclear reactor plant in the country, in Oak Ridge, Tennessee. Set to come online in 2030, it will help stymy the growth in energy costs from several large data centers run by Google in the Tennessee/Alabama area. Beyo\u2026",
+      "title": "Longest Undersea Road Tunnel to Shorten Travel Times by 5 Hours and Feature \u2018Great Hall of Lights\u2019",
+      "blurb": "1,000 feet below the North Sea, blast after blast brings Norwegian engineers closer and closer to completion of the longest undersea road tunnel on Earth. No one better to do it than Norway either, given that their citizens already built the world\u2019s longest undersea road tunnel:\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/firm-breaks-ground-on-first-advanced-nuclear-reactor-in-america-to-power-data-centers-for-less/",
-      "date": "2026-07-13",
-      "score": 0.9898
+      "sourceUrl": "https://www.goodnewsnetwork.org/longest-undersea-road-tunnel-to-shorten-travel-times-by-5-hours-and-feature-great-hall-of-lights/",
+      "date": "2026-07-20",
+      "score": 0.989
     },
     {
-      "title": "Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments",
-      "blurb": "A research team in Colorado has developed a suite of new therapies that prompt aging or damaged joints to repair themselves within weeks, according to animal studies. The new osteo-arthritis treatments include a single, regenerative injection to a joint and a biomaterial repair\u2026",
+      "title": "Good News in History, July 19",
+      "blurb": "50 years ago today, Sagarmatha National Park was established in Nepal as the country\u2019s first National Park. Enshrining the summit and breadth of the mountain known in the west as Everest, its total area encompasses 443 square miles, or 1,148 square km. In the north, it shares th\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/a-simple-shot-shows-promise-to-reverse-osteo-arthritis-within-months/",
-      "date": "2026-07-13",
-      "score": 0.9549
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060719/",
+      "date": "2026-07-19",
+      "score": 0.9988
     },
     {
-      "title": "Good News in History, July 12",
-      "blurb": "131 years ago, the architect, visionary, and writer Buckminster Fuller was born. Fuller developed numerous inventions, mainly architectural designs, and popularized the widely known geodesic dome structural shape, which he most famously used to design the Montreal Biosphere. Soa\u2026",
+      "title": "Pharaoh\u2019s Daughters Were Skilled at Archery 4,000 Years ago, Reveals New Research",
+      "blurb": "For decades, experts have disputed whether weapons found in ancient burial chambers of Egyptian princesses were actually their tools or placed there in a purely symbolic way. Now, a reassessment of five royal women who lived 4,000 years ago showed they were skilled at archery. S\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-12/",
-      "date": "2026-07-12",
-      "score": 0.9995
+      "sourceUrl": "https://www.goodnewsnetwork.org/pharaohs-daughters-were-skilled-at-archery-4000-years-ago-reveals-new-research/",
+      "date": "2026-07-19",
+      "score": 0.9859
     },
     {
-      "title": "Japanese Team Finds Frog Bacteria That Wipes Out Cancer Tumors With a Single Dose",
-      "blurb": "Japanese scientists have discovered a naturally-occurring bacteria in a frog species with remarkably-potent anticancer activity\u2014in fact, it destroyed cancer tumors in one dose. Led by Professor Eijiro Miyako, the team at Japan\u2019s Advanced Institute of Science and Technology disco\u2026",
+      "title": "People Dreamed of His Basketball Career, But He Wanted to Help Others\u2013He\u2019s Now a Texas Police Officer",
+      "blurb": "Although everyone urged the giant man to pursue a basketball career as a 7-foot-3-inch athlete, but that was never his dream. Jordan Wilmore would rather help others, so he trained to become a Texas policeman. He was one of the tallest players in college basketball, but now, he\u2019\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/japanese-find-frog-bacteria-that-wipes-out-cancer-tumors-with-a-single-dose/",
-      "date": "2026-07-12",
-      "score": 0.9697
-    },
-    {
-      "title": "Roman \u2018Genius\u2019 Spirit Statue Buried 1,600 Years Ago Found by Hadrian\u2019s Wall",
-      "blurb": "A perfectly preserved Roman statue which was deliberately buried 1,600 years ago has been unearthed near Hadrian\u2019s Wall. The 1.5 ft-high figure carved from sandstone is a \u2018protective spirit\u2019, also known as a \u2018genius\u2019, which is displayed like a shrine to invoke security and wealt\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/roman-genius-spirit-statue-buried-1600-years-ago-found-by-hadrians-wall/",
-      "date": "2026-07-12",
-      "score": 0.9072
+      "sourceUrl": "https://www.goodnewsnetwork.org/instead-of-basketball-career-he-wanted-to-help-people-as-police-officer/",
+      "date": "2026-07-18",
+      "score": 0.9453
     },
     {
       "title": "What went right this week: the good news that matters",
-      "blurb": "The world\u2019s \u2018greatest forest recovery\u2019, a new test for womb cancer, and Europe\u2019s environmental progress, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "Heath wins for El Salvador and Cambodia, a \u2018step forward for ocean protection\u2019, and an elusive new species, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
-      "date": "2026-07-10",
-      "score": 0.9995
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/",
+      "date": "2026-07-17",
+      "score": 0.9997
     },
     {
-      "title": "Children are overwhelmingly positive for the future, says survey",
-      "blurb": "Young people are not just optimistic about the world, but full of ideas for making it kinder, fairer and greener, research finds The post Children are overwhelmingly positive for the future, says survey appeared first on Positive News .",
+      "title": "In pictures: how forensic science is helping tackle wildlife poaching",
+      "blurb": "Advances in forensic science are disrupting the illegal wildlife trade \u2013 and are documented in a new photo series The post In pictures: how forensic science is helping tackle wildlife poaching appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/children-are-overwhelmingly-positive-for-the-future-says-survey/",
-      "date": "2026-07-10",
-      "score": 0.9976
+      "sourceUrl": "https://www.positive.news/society/how-forensic-science-is-helping-tackle-poaching/",
+      "date": "2026-07-17",
+      "score": 0.9294
     },
     {
-      "title": "Revealed: the world\u2019s most liveable cities in 2026",
-      "blurb": "Asian cities have shot up the latest Global Liveability Index, which has just been released. Where does your city rank? The post Revealed: the world\u2019s most liveable cities in 2026 appeared first on Positive News .",
+      "title": "How a farming programme in Sierra Leone helps amputees rebuild lives",
+      "blurb": "An empowering initiative teaches people with limb loss how to farm sustainably, enabling many to start businesses The post How a farming programme in Sierra Leone helps amputees rebuild lives appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/revealed-the-worlds-best-cities-in-2026/",
-      "date": "2026-07-09",
-      "score": 0.9786
+      "sourceUrl": "https://www.positive.news/environment/agriculture/sierra-leone-programme-helps-amputees-rebuild-lives-in-sierra-leone/",
+      "date": "2026-07-16",
+      "score": 0.9989
     },
     {
-      "title": "Reclaiming the game. What to expect in the new issue of Positive News magazine",
-      "blurb": "Editor Tom Pattinson introduces the new issue of Positive News magazine, which is out now The post Reclaiming the game. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/media/what-to-expect-in-the-new-positive-news-magazine/",
-      "date": "2026-07-08",
-      "score": 0.996
+      "title": "\u2018Food Really Is Medicine\u2019",
+      "blurb": "This article was originally published by Stateline. About a dozen states offer \u201cmedically tailored meals\u201d to people with conditions such as diabetes and heart disease who get their insurance through Medicaid. Such programs significantly improve the health of the people in them,\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/food-is-medicine-study/",
+      "date": "2026-07-16",
+      "score": 0.9848
     },
     {
-      "title": "How the ancient art of candle making is creating a brighter future for refugees",
-      "blurb": "In the US, refugees are being hired to make candles, helping them earn money, practise English and build a CV The post How the ancient art of candle making is creating a brighter future for refugees appeared first on Positive News .",
+      "title": "The marginalised groups finding community through football",
+      "blurb": "Shut out of the sport for generations, women, disabled players and minority groups are flooding into grassroots clubs The post The marginalised groups finding community through football appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/economics/social-enterprise/refugee-candlemakers-rebuilding-lives-through-work/",
-      "date": "2026-07-07",
-      "score": 0.993
+      "sourceUrl": "https://www.positive.news/society/the-marginalised-groups-finding-community-through-football/",
+      "date": "2026-07-15",
+      "score": 0.9138
+    },
+    {
+      "title": "What positive change have you seen unfold over many years?",
+      "blurb": "Share the stories of change you\u2019ve witnessed that took patience, persistence and time The post What positive change have you seen unfold over many years? appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/what-positive-change-have-you-watched-unfold-over-many-years/",
+      "date": "2026-07-14",
+      "score": 0.9983
     }
   ]
 }
