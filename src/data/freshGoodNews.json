@@ -1,15 +1,95 @@
 {
-  "generated_at": "2026-07-27T12:08:19Z",
+  "generated_at": "2026-08-03T12:09:35Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Good News in History, July 27",
-      "blurb": "86 years ago today, Bugs Bunny, the wisecracking Warner Bros cartoon character, first debuted in an animated short entitled A Wild Hare. Supervised by Fred \u2018Tex\u2019 Avery, it featured a hunter named Elmer Fudd pursuing a wily rabbit voiced by Mel Blanc. The pair became beloved, and\u2026",
+      "title": "Good News in History, August 3",
+      "blurb": "On this day 100 years ago, Tony Bennett, the famed jazz and pop singer, who passed away just last year, was born. Winner of 19 Grammys, he grew up in a poor family of Italian immigrants, but his uncle was a vaudeville tap dancer, giving Tony an early window into show business. A\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060727/",
-      "date": "2026-07-27",
-      "score": 0.9982
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060803/",
+      "date": "2026-08-03",
+      "score": 0.9997
+    },
+    {
+      "title": "Okefenokee Swamp Clinches World Heritage Status, Joining Ranks of Top Natural Wonders",
+      "blurb": "Georgia\u2019s Okefenokee Swamp is the latest wild wonder of the USA to make UNESCO\u2019s hallowed World Heritage Site list. It joins the Grand Canyon, Sequoia, Everglades, and Yellowstone national Parks on the same list, and reflects the stunning biodiversity of American \u201cblackwater\u201d sw\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/okefenokee-swamp-clinches-world-heritage-status-joining-ranks-of-top-natural-wonders/",
+      "date": "2026-08-03",
+      "score": 0.9995
+    },
+    {
+      "title": "The musicians turning bat calls into club music",
+      "blurb": "A new album made from the echolocation calls of bats is inviting listeners to hear the misunderstood mammals differently The post The musicians turning bat calls into club music appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/conservation/the-musicians-turning-bat-calls-into-club-music/",
+      "date": "2026-08-03",
+      "score": 0.9978
+    },
+    {
+      "title": "16-yo Rookie Lifeguard Leads Heroic Ocean Rescue\u2013With Viral Video of Harrowing Effort",
+      "blurb": "The rookie lifeguard didn\u2019t flinch. A giant wave slammed into the California shore and a 10-year-old boy was instantly swept up. Luckily, a 16-year-old lifeguard ran to help, rushing toward a rescue that would go viral on social media, earning Ryder Williams praise across the in\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/16-yo-rookie-lifeguard-leads-heroic-ocean-rescue-with-viral-video-of-harrowing-effort/",
+      "date": "2026-08-02",
+      "score": 0.9952
+    },
+    {
+      "title": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019",
+      "blurb": "As NASA\u2019s Curiosity rover ascended the Martian valley named Valle Grande back in June, it sent back images of a landscape covered in honeycomb-like textures. \u201cWe\u2019ve seen a lot of fascinating landscapes through Curiosity\u2019s eyes, but this sea of polygons took our breath away,\u201d sai\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mars-rover-discovers-mysterious-field-of-honeycomb-textures-on-red-planet/",
+      "date": "2026-08-02",
+      "score": 0.9948
+    },
+    {
+      "title": "Good News in History, August 2",
+      "blurb": "83 years ago today, in combat with the Japanese during the Solomon Islands Campaign in World War II, Patrol torpedo boat PT-109 was rammed by the Japanese Destroyer Amagiri. Its commanding officer, a certain Lieutenant John F. Kennedy, undertook almost single-handedly to rescued\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060802/",
+      "date": "2026-08-02",
+      "score": 0.9854
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "blurb": "Scientists flew into \u2018fire clouds\u2019, Finland cut emissions with a sand battery, and food banks turned waste into meals, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
+      "date": "2026-07-31",
+      "score": 0.9969
+    },
+    {
+      "title": "How community football is helping youth stay out of trouble",
+      "blurb": "From knife-crime prevention to mental health support, grassroots football is being taken seriously as a tool for social change The post How community football is helping youth stay out of trouble appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
+      "date": "2026-07-31",
+      "score": 0.9932
+    },
+    {
+      "title": "Did a tourist tax save Magaluf?",
+      "blurb": "As Edinburgh introduces a visitor levy, we look at what a decade of tourist tax-funded investment has done for one of Europe\u2019s resorts The post Did a tourist tax save Magaluf? appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
+      "date": "2026-07-30",
+      "score": 0.9958
+    },
+    {
+      "title": "A new measure of courage: how Maasai warriors became lion guardians",
+      "blurb": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist The post A new measure of courage: how Maasai warriors became lion guardians appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
+      "date": "2026-07-29",
+      "score": 0.9994
+    },
+    {
+      "title": "What We\u2019re Reading: Helping Older Americans \u2018Age in Community\u2019",
+      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Homeward bound As the U.S. population ages, some Americans are looking beyond the basic\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-aging-in-community/",
+      "date": "2026-07-29",
+      "score": 0.9971
     },
     {
       "title": "Unearthing Paris\u2019 Mythical Second River",
@@ -18,86 +98,6 @@
       "sourceUrl": "https://reasonstobecheerful.world/bievre-river/",
       "date": "2026-07-27",
       "score": 0.9978
-    },
-    {
-      "title": "Leopards recover in Zambia as communities swap skins for synthetics",
-      "blurb": "Replacing real leopard skins with synthetic furs has helped leopards recover in western Zambia, researchers say The post Leopards recover in Zambia as communities swap skins for synthetics appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
-      "date": "2026-07-27",
-      "score": 0.9937
-    },
-    {
-      "title": "Europe\u2019s Air Quality Dramatically Improves in 10 Years, With 39-59% Drop in Industrial and Road Toxins",
-      "blurb": "Air quality continues to improve across Europe, with emissions from most of the major pollutants declining by significant amounts. \u201cThe overall picture remains positive,\u201d according to the annual Assessment Report on European Air Quality 2025, released by the Copernicus Atmospher\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/europes-air-quality-dramatically-improved-with-39-59-drop-in-industrial-and-road-emissions/",
-      "date": "2026-07-26",
-      "score": 0.9984
-    },
-    {
-      "title": "Good News in History, July 26",
-      "blurb": "134 years ago today, Dadabhai Naoroji was elected as the first Indian Member of Parliament in Britain. A merchant, scholar, writer, and political leader who served as a founding member of the Indian National Congress, Naoroji is particularly known for formulating the \u201cdrain theo\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060726/",
-      "date": "2026-07-26",
-      "score": 0.9929
-    },
-    {
-      "title": "On Brink of Extinction, the Vaquita Porpoise is Being Preserved By Digital Image",
-      "blurb": "The elusive vaquita porpoise swims in the wild only in shallow northern waters of Mexico\u2019s Gulf of California (also known as the Sea of Cortez)\u2014and it\u2019s one of the rarest and most endangered marine mammals on Earth. With a wild population numbering as low as ten, the vaquita is\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/on-brink-of-extinction-the-vaquita-porpoise-is-being-preserved-digitally/",
-      "date": "2026-07-26",
-      "score": 0.9857
-    },
-    {
-      "title": "What went right this week: the good news that matters",
-      "blurb": "The world\u2019s roads got much safer, global hunger levels eased, and Brazil set a welcome record for deforestation, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/",
-      "date": "2026-07-24",
-      "score": 0.9996
-    },
-    {
-      "title": "The upside of the global energy crisis",
-      "blurb": "The closure of the Strait of Hormuz has brought renewed urgency to the climate solutions campaigners have long championed The post The upside of the global energy crisis appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/the-upside-of-the-energy-crisis/",
-      "date": "2026-07-23",
-      "score": 0.9979
-    },
-    {
-      "title": "\u2018It\u2019s brought a sense of community back to the town\u2019",
-      "blurb": "A growing backlash against the Premier League has sparked huge interest in community clubs, which make football affordable for everyone The post \u2018It\u2019s brought a sense of community back to the town\u2019 appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/finding-their-grassroots/",
-      "date": "2026-07-22",
-      "score": 0.9983
-    },
-    {
-      "title": "What We\u2019re Reading: Saving One Centuries-Old Tree at a Time",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Uprooted When trees are in the path of development, they have to go. Right? Not in Japan\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-saving-trees-japan/",
-      "date": "2026-07-22",
-      "score": 0.9947
-    },
-    {
-      "title": "\u2018A place of hope and solutions\u2019: the building promising a better future",
-      "blurb": "A bold new building in the Netherlands promises to showcase solutions to global problems \u2013 and encourage positive action The post \u2018A place of hope and solutions\u2019: the building promising a better future appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/the-rotterdam-building-promising-a-better-future/",
-      "date": "2026-07-21",
-      "score": 0.9995
-    },
-    {
-      "title": "What If We Never Built Another New Building?",
-      "blurb": "Swiss architect Barbara Buser has spent decades proving that the greenest building is often the one already standing. When one unscrews a section of the bright red sheet metal fa\u00e7ade from K.118, a former carpentry factory in Winterthur, Switzerland, the interior reveals somethin\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-if-we-never-built-another-new-building/",
-      "date": "2026-07-20",
-      "score": 0.9968
     }
   ]
 }
