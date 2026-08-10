@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-08-03T12:09:35Z",
+  "generated_at": "2026-08-10T10:06:56Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Good News in History, August 3",
-      "blurb": "On this day 100 years ago, Tony Bennett, the famed jazz and pop singer, who passed away just last year, was born. Winner of 19 Grammys, he grew up in a poor family of Italian immigrants, but his uncle was a vaudeville tap dancer, giving Tony an early window into show business. A\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060803/",
-      "date": "2026-08-03",
+      "title": "How birdwatching has become an unexpected hit with Gen Z",
+      "blurb": "A new wave of young birders is helping to turn one of Britain\u2019s oldest pastimes into one of its fastest-growing hobbies The post How birdwatching has become an unexpected hit with Gen Z appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/conservation/birdwatching-takes-off-among-gen-z/",
+      "date": "2026-08-10",
       "score": 0.9997
     },
     {
-      "title": "Okefenokee Swamp Clinches World Heritage Status, Joining Ranks of Top Natural Wonders",
-      "blurb": "Georgia\u2019s Okefenokee Swamp is the latest wild wonder of the USA to make UNESCO\u2019s hallowed World Heritage Site list. It joins the Grand Canyon, Sequoia, Everglades, and Yellowstone national Parks on the same list, and reflects the stunning biodiversity of American \u201cblackwater\u201d sw\u2026",
+      "title": "Toronto Zoo Celebrates Birth of Endangered Pygmy Hippo \u2013 The Pictures and Video are Adorable",
+      "blurb": "When you see these photos from the Toronto Zoo of their newest resident, you\u2019ll know why we had to share. A pregnant pygmy Hippopotamus gave birth a week ago\u2014tiny feet appearing after 1.5 hours of active labor. The calf began teetering around in an attempt to stand within 15 min\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/okefenokee-swamp-clinches-world-heritage-status-joining-ranks-of-top-natural-wonders/",
-      "date": "2026-08-03",
-      "score": 0.9995
+      "sourceUrl": "https://www.goodnewsnetwork.org/toronto-zoo-celebrates-birth-of-endangered-pygmy-hippo/",
+      "date": "2026-08-10",
+      "score": 0.9925
     },
     {
-      "title": "The musicians turning bat calls into club music",
-      "blurb": "A new album made from the echolocation calls of bats is inviting listeners to hear the misunderstood mammals differently The post The musicians turning bat calls into club music appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/conservation/the-musicians-turning-bat-calls-into-club-music/",
-      "date": "2026-08-03",
-      "score": 0.9978
-    },
-    {
-      "title": "16-yo Rookie Lifeguard Leads Heroic Ocean Rescue\u2013With Viral Video of Harrowing Effort",
-      "blurb": "The rookie lifeguard didn\u2019t flinch. A giant wave slammed into the California shore and a 10-year-old boy was instantly swept up. Luckily, a 16-year-old lifeguard ran to help, rushing toward a rescue that would go viral on social media, earning Ryder Williams praise across the in\u2026",
+      "title": "Blind Dressage Horse Wins Competitions By Using \u2018Equine Braille\u2019",
+      "blurb": "Despite going blind, a remarkable horse is still on his way to becoming a dressage champion after adopting an extraordinary form of equine \u201cbraille\u201d. The 15-year-old Appaloosa named Milo, has awed spectators since returning to the show ring last year despite losing sight in both\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/16-yo-rookie-lifeguard-leads-heroic-ocean-rescue-with-viral-video-of-harrowing-effort/",
-      "date": "2026-08-02",
-      "score": 0.9952
+      "sourceUrl": "https://www.goodnewsnetwork.org/blind-dressage-horse-wins-competitions-by-using-equine-braille/",
+      "date": "2026-08-09",
+      "score": 0.9997
     },
     {
-      "title": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019",
-      "blurb": "As NASA\u2019s Curiosity rover ascended the Martian valley named Valle Grande back in June, it sent back images of a landscape covered in honeycomb-like textures. \u201cWe\u2019ve seen a lot of fascinating landscapes through Curiosity\u2019s eyes, but this sea of polygons took our breath away,\u201d sai\u2026",
+      "title": "Good News in History, August 9",
+      "blurb": "90 years ago today, track and field star Jesse Owens won his fourth gold medal at the Berlin Olympics\u2014a first for any American athlete. Owens was cheered enthusiastically by 110,000 people in Berlin\u2019s Olympic Stadium\u2014and later, ordinary Germans sought his autograph when they saw\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/mars-rover-discovers-mysterious-field-of-honeycomb-textures-on-red-planet/",
-      "date": "2026-08-02",
-      "score": 0.9948
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060809/",
+      "date": "2026-08-09",
+      "score": 0.9997
     },
     {
-      "title": "Good News in History, August 2",
-      "blurb": "83 years ago today, in combat with the Japanese during the Solomon Islands Campaign in World War II, Patrol torpedo boat PT-109 was rammed by the Japanese Destroyer Amagiri. Its commanding officer, a certain Lieutenant John F. Kennedy, undertook almost single-handedly to rescued\u2026",
+      "title": "Once Gone From Ireland, Majestic Sea Eagles Continue Their Comeback with Rare New Chick",
+      "blurb": "More than a century after the country\u2019s largest bird of prey disappeared entirely from Ireland, a white-tailed sea eagle has been delivered\u2014and the young fledgling became another success for conservationists to celebrate. Fota Wildlife Park in County Cork has announced the succe\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060802/",
-      "date": "2026-08-02",
-      "score": 0.9854
+      "sourceUrl": "https://www.goodnewsnetwork.org/once-gone-from-ireland-majestic-sea-eagles-continue-comeback/",
+      "date": "2026-08-09",
+      "score": 0.9996
     },
     {
-      "title": "What went right this week: the good news that matters",
-      "blurb": "Scientists flew into \u2018fire clouds\u2019, Finland cut emissions with a sand battery, and food banks turned waste into meals, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
-      "date": "2026-07-31",
-      "score": 0.9969
+      "title": "Intricate Carvings in Ostrich Eggshells are 60,000 Years Old \u2013 and Reveal \u2018Remarkable\u2019 Human Thinking",
+      "blurb": "Dating back more than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that\u2014the longer we study them\u2014look more organized than we previously realized. A new analysis of the markings found on hundreds of eggshell fragme\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/intricate-carvings-in-ostrich-eggshells-from-60000-year-ago/",
+      "date": "2026-08-09",
+      "score": 0.9991
     },
     {
-      "title": "How community football is helping youth stay out of trouble",
-      "blurb": "From knife-crime prevention to mental health support, grassroots football is being taken seriously as a tool for social change The post How community football is helping youth stay out of trouble appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
-      "date": "2026-07-31",
+      "title": "Cheese Lovers Unite: The Benefits of Full-Fat Dairy Documented in Study Without Cholesterol Rise or Weight Gain",
+      "blurb": "A University of Toronto study is offering new evidence in support of full-fat dairy consumption. The findings from a 12-week study demonstrate that three daily servings of full-fat dairy can be incorporated into a person\u2019s diet without negatively affecting their body weight (or\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/cheese-lovers-unite-the-benefits-of-full-fat-dairy-documented-in-study-without-cholesterol-rise-or-weight-gain/",
+      "date": "2026-08-09",
+      "score": 0.9938
+    },
+    {
+      "title": "Leo DiCaprio Launches $200M Project to Bring 100 Most Threatened Species Back From the Brink",
+      "blurb": "In 2021, Leonardo DiCaprio, the Bezos Earth Fund, and nine other conservation philanthropies launched the Protecting Our Planet Challenge, focused on protecting at least 30% of the most important land, freshwater, and marine area on the planet. In the years since, the Hollywood\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/dicaprio-launches-200m-project-to-recover-100-most-threatened-species/",
+      "date": "2026-08-09",
+      "score": 0.9869
+    },
+    {
+      "title": "Loggerhead Sea Turtles Break Nest Record in Georgia \u2013 The Most in 37 Years",
+      "blurb": "Loggerhead sea turtle nests along the Atlantic coast in the US have set a new 37-year record, topping every annual count for beaches in the state of Georgia, going back to 1989. The state\u2019s Department of Natural Resources calls it \u201ca slow but steady rebound\u201d for the animal liste\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/loggerhead-sea-turtles-break-nest-record-in-georgia-the-most-in-37-years/",
+      "date": "2026-08-08",
       "score": 0.9932
     },
     {
-      "title": "Did a tourist tax save Magaluf?",
-      "blurb": "As Edinburgh introduces a visitor levy, we look at what a decade of tourist tax-funded investment has done for one of Europe\u2019s resorts The post Did a tourist tax save Magaluf? appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
-      "date": "2026-07-30",
-      "score": 0.9958
-    },
-    {
-      "title": "A new measure of courage: how Maasai warriors became lion guardians",
-      "blurb": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist The post A new measure of courage: how Maasai warriors became lion guardians appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
-      "date": "2026-07-29",
-      "score": 0.9994
-    },
-    {
-      "title": "What We\u2019re Reading: Helping Older Americans \u2018Age in Community\u2019",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Homeward bound As the U.S. population ages, some Americans are looking beyond the basic\u2026",
+      "title": "The Spark: How Neighbors Are Banding Together to Go Greener",
+      "blurb": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful\u2019s weekly newsletter here and you\u2019ll get The Spark in you\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-aging-in-community/",
-      "date": "2026-07-29",
-      "score": 0.9971
+      "sourceUrl": "https://reasonstobecheerful.world/the-spark-green-home-energy/",
+      "date": "2026-08-07",
+      "score": 0.9998
     },
     {
-      "title": "Unearthing Paris\u2019 Mythical Second River",
-      "blurb": "Only knee-deep in parts yet relatively wide, the Bi\u00e8vre gently flows with transparent waters that shimmer in the afternoon sun. A shoal of fish lazily linger beside a large stone in one section. Further along, birds and butterflies weave between the long grasses lining the banks\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/bievre-river/",
-      "date": "2026-07-27",
-      "score": 0.9978
+      "title": "What went right this week: the good news that matters",
+      "blurb": "A reality check for \u2018AI slop\u2019, the US\u2019s plummeting murder rate, and a victory for an uncontacted tribe, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+      "date": "2026-08-07",
+      "score": 0.9953
+    },
+    {
+      "title": "Life lessons: Joe Newman on what life so far has taught him",
+      "blurb": "The British singer-songwriter and frontman of alt-J on capturing creative sparks and the rise of the far-right The post Life lessons: Joe Newman on what life so far has taught him appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/lifestyle/culture/life-lessons-joe-newman-on-what-life-so-far-has-taught-him/",
+      "date": "2026-08-06",
+      "score": 0.9985
     }
   ]
 }
