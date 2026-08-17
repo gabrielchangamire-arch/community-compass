@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-10T10:06:56Z",
+  "generated_at": "2026-08-17T09:27:46Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
+    {
+      "title": "Black tomatoes and white aubergines, the future of farming is quantum",
+      "blurb": "An Italian farm is using biomimicry and agroecological technology to ensure their crops can handle the heat The post Black tomatoes and white aubergines, the future of farming is quantum appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
+      "date": "2026-08-17",
+      "score": 0.9975
+    },
+    {
+      "title": "Good News in History, August 16",
+      "blurb": "110 years ago today, the Migratory Bird Treaty was signed by the US and Canada. setting rules to protect birds that fly between both countries. This agreement stopped unregulated hunting and saved many bird species from dying out. It has even been expanded to include Mexico, Jap\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060816/",
+      "date": "2026-08-16",
+      "score": 0.9985
+    },
+    {
+      "title": "Beating the Heat With a Million Blooming Sunflowers in Breezy Scotland (LOOK)",
+      "blurb": "The month of August heralded the return of 14 acres of golden sunflowers topping the landscape in Scotland. Open to visitors through August 23, the Balgone Estate has once again opened its vibrant Sunflower Trail located an hour-and-a-half outside Glasgow. The event was first in\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland/",
+      "date": "2026-08-15",
+      "score": 0.9998
+    },
+    {
+      "title": "Your Weekly Horoscope \u2013 \u2018Free Will Astrology\u2019 by Rob Brezsny",
+      "blurb": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob\u2019s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications.\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-15-2026/",
+      "date": "2026-08-15",
+      "score": 0.9989
+    },
+    {
+      "title": "A Real Rockin\u2019 Horse: Music Tames a Rescue Foal Who Learns to \u2018Play\u2019 Instruments for Album Debut",
+      "blurb": "The video starts normal enough, but a surprise is waiting somewhere near the chorus. Mikayla Khramov is strumming guitar strings on Instagram and singing the lyrics to the famous Dolly Parton song 9-to-5. Then, a moment later, a horse jumps in, lightly chomping on the guitar str\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/a-real-rockin-horse-rescue-foal-learns-to-play-instruments-for-album-debut/",
+      "date": "2026-08-15",
+      "score": 0.7316
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "blurb": "Plummeting deforestation in Brazil\u2019s Amazon, hurricane-predicting sharks and a courtroom reckoning on the cards for tech giants, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
+      "date": "2026-08-14",
+      "score": 0.9991
+    },
+    {
+      "title": "Bringing the thrill of live music to deaf audiences \u2013 with the help of air guitar",
+      "blurb": "Luke Holdsworth was born deaf and is now one of the UK\u2019s most respected BSL interpreters at live concerts The post Bringing the thrill of live music to deaf audiences \u2013 with the help of air guitar appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/bringing-the-thrill-of-live-music-to-deaf-audiences-with-the-help-of-air-guitar/",
+      "date": "2026-08-13",
+      "score": 0.9992
+    },
+    {
+      "title": "These Wetlands Treat the Wastewater of a Megacity",
+      "blurb": "On a humid summer afternoon, Gagan Das mixes groundnut and mustard meal in water in a large drum. On either side of him, large ponds reflect the sun. Mango trees laden with fruit, palms heavy with their payload of yellow dates and shady neem trees line the embankments. It is...\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/east-kolkata-wetlands/",
+      "date": "2026-08-13",
+      "score": 0.998
+    },
+    {
+      "title": "What We\u2019re Reading: New York City\u2019s Summer of Soundwalking",
+      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Hearing things What does New York City sound like if you really, really listen? For a Ne\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-new-york-city-soundwalk-summer/",
+      "date": "2026-08-12",
+      "score": 0.9961
+    },
+    {
+      "title": "Back on track: Matt Haig on finding acceptance",
+      "blurb": "At 50 years old and with the release of his new book The Midnight Train, Matt Haig explains why acceptance has descended on him The post Back on track: Matt Haig on finding acceptance appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/lifestyle/arts/regret-is-a-major-theme-of-my-work-matt-haig/",
+      "date": "2026-08-12",
+      "score": 0.993
+    },
+    {
+      "title": "Three sports groups using movement to tackle isolation",
+      "blurb": "These three groups are using sport and movement to create connection, purpose and community The post Three sports groups using movement to tackle isolation appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/lifestyle/sport/three-sports-groups-using-movement-to-tackle-isolation/",
+      "date": "2026-08-11",
+      "score": 0.9682
+    },
     {
       "title": "How birdwatching has become an unexpected hit with Gen Z",
       "blurb": "A new wave of young birders is helping to turn one of Britain\u2019s oldest pastimes into one of its fastest-growing hobbies The post How birdwatching has become an unexpected hit with Gen Z appeared first on Positive News .",
@@ -10,94 +98,6 @@
       "sourceUrl": "https://www.positive.news/environment/conservation/birdwatching-takes-off-among-gen-z/",
       "date": "2026-08-10",
       "score": 0.9997
-    },
-    {
-      "title": "Toronto Zoo Celebrates Birth of Endangered Pygmy Hippo \u2013 The Pictures and Video are Adorable",
-      "blurb": "When you see these photos from the Toronto Zoo of their newest resident, you\u2019ll know why we had to share. A pregnant pygmy Hippopotamus gave birth a week ago\u2014tiny feet appearing after 1.5 hours of active labor. The calf began teetering around in an attempt to stand within 15 min\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/toronto-zoo-celebrates-birth-of-endangered-pygmy-hippo/",
-      "date": "2026-08-10",
-      "score": 0.9925
-    },
-    {
-      "title": "Blind Dressage Horse Wins Competitions By Using \u2018Equine Braille\u2019",
-      "blurb": "Despite going blind, a remarkable horse is still on his way to becoming a dressage champion after adopting an extraordinary form of equine \u201cbraille\u201d. The 15-year-old Appaloosa named Milo, has awed spectators since returning to the show ring last year despite losing sight in both\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/blind-dressage-horse-wins-competitions-by-using-equine-braille/",
-      "date": "2026-08-09",
-      "score": 0.9997
-    },
-    {
-      "title": "Good News in History, August 9",
-      "blurb": "90 years ago today, track and field star Jesse Owens won his fourth gold medal at the Berlin Olympics\u2014a first for any American athlete. Owens was cheered enthusiastically by 110,000 people in Berlin\u2019s Olympic Stadium\u2014and later, ordinary Germans sought his autograph when they saw\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060809/",
-      "date": "2026-08-09",
-      "score": 0.9997
-    },
-    {
-      "title": "Once Gone From Ireland, Majestic Sea Eagles Continue Their Comeback with Rare New Chick",
-      "blurb": "More than a century after the country\u2019s largest bird of prey disappeared entirely from Ireland, a white-tailed sea eagle has been delivered\u2014and the young fledgling became another success for conservationists to celebrate. Fota Wildlife Park in County Cork has announced the succe\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/once-gone-from-ireland-majestic-sea-eagles-continue-comeback/",
-      "date": "2026-08-09",
-      "score": 0.9996
-    },
-    {
-      "title": "Intricate Carvings in Ostrich Eggshells are 60,000 Years Old \u2013 and Reveal \u2018Remarkable\u2019 Human Thinking",
-      "blurb": "Dating back more than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that\u2014the longer we study them\u2014look more organized than we previously realized. A new analysis of the markings found on hundreds of eggshell fragme\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/intricate-carvings-in-ostrich-eggshells-from-60000-year-ago/",
-      "date": "2026-08-09",
-      "score": 0.9991
-    },
-    {
-      "title": "Cheese Lovers Unite: The Benefits of Full-Fat Dairy Documented in Study Without Cholesterol Rise or Weight Gain",
-      "blurb": "A University of Toronto study is offering new evidence in support of full-fat dairy consumption. The findings from a 12-week study demonstrate that three daily servings of full-fat dairy can be incorporated into a person\u2019s diet without negatively affecting their body weight (or\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/cheese-lovers-unite-the-benefits-of-full-fat-dairy-documented-in-study-without-cholesterol-rise-or-weight-gain/",
-      "date": "2026-08-09",
-      "score": 0.9938
-    },
-    {
-      "title": "Leo DiCaprio Launches $200M Project to Bring 100 Most Threatened Species Back From the Brink",
-      "blurb": "In 2021, Leonardo DiCaprio, the Bezos Earth Fund, and nine other conservation philanthropies launched the Protecting Our Planet Challenge, focused on protecting at least 30% of the most important land, freshwater, and marine area on the planet. In the years since, the Hollywood\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/dicaprio-launches-200m-project-to-recover-100-most-threatened-species/",
-      "date": "2026-08-09",
-      "score": 0.9869
-    },
-    {
-      "title": "Loggerhead Sea Turtles Break Nest Record in Georgia \u2013 The Most in 37 Years",
-      "blurb": "Loggerhead sea turtle nests along the Atlantic coast in the US have set a new 37-year record, topping every annual count for beaches in the state of Georgia, going back to 1989. The state\u2019s Department of Natural Resources calls it \u201ca slow but steady rebound\u201d for the animal liste\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/loggerhead-sea-turtles-break-nest-record-in-georgia-the-most-in-37-years/",
-      "date": "2026-08-08",
-      "score": 0.9932
-    },
-    {
-      "title": "The Spark: How Neighbors Are Banding Together to Go Greener",
-      "blurb": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful\u2019s weekly newsletter here and you\u2019ll get The Spark in you\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/the-spark-green-home-energy/",
-      "date": "2026-08-07",
-      "score": 0.9998
-    },
-    {
-      "title": "What went right this week: the good news that matters",
-      "blurb": "A reality check for \u2018AI slop\u2019, the US\u2019s plummeting murder rate, and a victory for an uncontacted tribe, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
-      "date": "2026-08-07",
-      "score": 0.9953
-    },
-    {
-      "title": "Life lessons: Joe Newman on what life so far has taught him",
-      "blurb": "The British singer-songwriter and frontman of alt-J on capturing creative sparks and the rise of the far-right The post Life lessons: Joe Newman on what life so far has taught him appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/culture/life-lessons-joe-newman-on-what-life-so-far-has-taught-him/",
-      "date": "2026-08-06",
-      "score": 0.9985
     }
   ]
 }
