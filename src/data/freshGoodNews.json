@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-08-17T09:27:46Z",
+  "generated_at": "2026-08-24T09:33:47Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Black tomatoes and white aubergines, the future of farming is quantum",
-      "blurb": "An Italian farm is using biomimicry and agroecological technology to ensure their crops can handle the heat The post Black tomatoes and white aubergines, the future of farming is quantum appeared first on Positive News .",
+      "title": "How rewilding could help stop the spread of Britain\u2019s wildfires",
+      "blurb": "Why rewilding is one of the best solutions we have to the concerning rise of wildfires The post How rewilding could help stop the spread of Britain\u2019s wildfires appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
-      "date": "2026-08-17",
-      "score": 0.9975
+      "sourceUrl": "https://www.positive.news/society/how-rewilding-could-help-stop-the-spread-of-britains-wildfires/",
+      "date": "2026-08-24",
+      "score": 0.9983
     },
     {
-      "title": "Good News in History, August 16",
-      "blurb": "110 years ago today, the Migratory Bird Treaty was signed by the US and Canada. setting rules to protect birds that fly between both countries. This agreement stopped unregulated hunting and saved many bird species from dying out. It has even been expanded to include Mexico, Jap\u2026",
+      "title": "Good News in History, August 24",
+      "blurb": "10 years ago today, the European Southern Observatory confirmed the existence of Proxima Centauri b, the closest exoplanet to Earth orbiting within the habitable zone of the red dwarf star Proxima Centauri. It\u2019s just over the hedge at 4.2 light years from Earth, and its discover\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060816/",
-      "date": "2026-08-16",
-      "score": 0.9985
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060824/",
+      "date": "2026-08-24",
+      "score": 0.9952
     },
     {
-      "title": "Beating the Heat With a Million Blooming Sunflowers in Breezy Scotland (LOOK)",
-      "blurb": "The month of August heralded the return of 14 acres of golden sunflowers topping the landscape in Scotland. Open to visitors through August 23, the Balgone Estate has once again opened its vibrant Sunflower Trail located an hour-and-a-half outside Glasgow. The event was first in\u2026",
+      "title": "Ethiopian Farmers Save Thousands by Switching to Solar Irrigation\u2013While Cutting Emissions",
+      "blurb": "Farmers in Ethiopia are slashing their growing costs, increasing food production, and protecting the environment thanks to solar-powered irrigation systems introduced through the Nature-based Solutions for Sustainable and Inclusive Development program led by the international no\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland/",
-      "date": "2026-08-15",
-      "score": 0.9998
+      "sourceUrl": "https://www.goodnewsnetwork.org/ethiopian-farmers-save-thousands-by-switching-to-solar-irrigation/",
+      "date": "2026-08-24",
+      "score": 0.74
     },
     {
-      "title": "Your Weekly Horoscope \u2013 \u2018Free Will Astrology\u2019 by Rob Brezsny",
-      "blurb": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob\u2019s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications.\u2026",
+      "title": "Good News in History, August 23",
+      "blurb": "3 years ago today, the chief of the Indian Space Research Organization (ISRO) exclaimed \u201cIndia is on the Moon!\u201d after the successful landing of Chandrayaan-3, the Indian Lunar lander. In doing so India became the fourth nation to operate on the Moon after the US, Russia, and Chi\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-15-2026/",
-      "date": "2026-08-15",
-      "score": 0.9989
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060823/",
+      "date": "2026-08-23",
+      "score": 0.9997
     },
     {
-      "title": "A Real Rockin\u2019 Horse: Music Tames a Rescue Foal Who Learns to \u2018Play\u2019 Instruments for Album Debut",
-      "blurb": "The video starts normal enough, but a surprise is waiting somewhere near the chorus. Mikayla Khramov is strumming guitar strings on Instagram and singing the lyrics to the famous Dolly Parton song 9-to-5. Then, a moment later, a horse jumps in, lightly chomping on the guitar str\u2026",
+      "title": "Dog Lost on 3rd Tallest Peak in England Finally Found After Three Weeks Stuck on Steep Ravine",
+      "blurb": "A dog missing for nearly three weeks on a mountain in rural England\u2019s Lake District has been rescued\u2014and it was a real team effort. Tiny Teddy vanished on August 2nd while hiking with her owner on Helvellyn, the third-highest peak in the country. Posters were plastered around th\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/a-real-rockin-horse-rescue-foal-learns-to-play-instruments-for-album-debut/",
-      "date": "2026-08-15",
-      "score": 0.7316
+      "sourceUrl": "https://www.goodnewsnetwork.org/dog-lost-on-3rd-tallest-peak-in-england-finally-found-after-three-weeks-on-steep-ravine/",
+      "date": "2026-08-23",
+      "score": 0.9747
+    },
+    {
+      "title": "California Joins 30 States to Require Financial Literacy Courses For Teens in Every High School",
+      "blurb": "California will be helping teens mold their futures as early as possible, by requiring every high schooler to pass a financial literacy course. Legislation now being implemented after its passage in 2024 made California the 26th state to require a stand-alone personal finance co\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/california-became-26th-state-to-require-financial-literacy-courses-in-every-high-school/",
+      "date": "2026-08-23",
+      "score": 0.9691
+    },
+    {
+      "title": "\u2018Double Spiral\u2019 Secret of Narwhal\u2019s Twisted Tusk Revealed By High Tech X-Rays",
+      "blurb": "Hidden secrets of the narwhal\u2019s twisted tusk have been revealed using the latest X-ray technology. Tusks of the species of whale native to the Arctic have long been the subject of myths\u2014even being sold as \u2018unicorn horns\u2019 and believed to possess magical powers during the Middle A\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/double-spiral-secret-of-narwhals-twisted-tusk-revealed-by-xray-tech/",
+      "date": "2026-08-23",
+      "score": 0.9658
     },
     {
       "title": "What went right this week: the good news that matters",
-      "blurb": "Plummeting deforestation in Brazil\u2019s Amazon, hurricane-predicting sharks and a courtroom reckoning on the cards for tech giants, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "A \u2018pivotal moment\u2019 for cancer treatment, resurgent whales, and the city that made public transport free, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
-      "date": "2026-08-14",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
+      "date": "2026-08-21",
       "score": 0.9991
     },
     {
-      "title": "Bringing the thrill of live music to deaf audiences \u2013 with the help of air guitar",
-      "blurb": "Luke Holdsworth was born deaf and is now one of the UK\u2019s most respected BSL interpreters at live concerts The post Bringing the thrill of live music to deaf audiences \u2013 with the help of air guitar appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/bringing-the-thrill-of-live-music-to-deaf-audiences-with-the-help-of-air-guitar/",
-      "date": "2026-08-13",
-      "score": 0.9992
+      "title": "Transforming Britain\u2019s Old Coalfields Into Clean Energy Sources",
+      "blurb": "In the town of Gateshead in North East England, coal mining runs thick in the blood. Up to the final coup de gr\u00e2ce delivered by Margaret Thatcher\u2019s coal purge in the 1980s, Gateshead had been tapping its dark subterranean seams as far back as 1344, when packhorses conveyed \u201csea\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
+      "date": "2026-08-21",
+      "score": 0.9932
     },
     {
-      "title": "These Wetlands Treat the Wastewater of a Megacity",
-      "blurb": "On a humid summer afternoon, Gagan Das mixes groundnut and mustard meal in water in a large drum. On either side of him, large ponds reflect the sun. Mango trees laden with fruit, palms heavy with their payload of yellow dates and shady neem trees line the embankments. It is...\u2026",
+      "title": "The Spanish Town Doing Capitalism Better",
+      "blurb": "There are all kinds of enormous, impressive and, frankly, noisy machines at work across the 20,000 square meters of industrial warehouses at the headquarters of Fagor Arrasate, a manufacturing company in Spain\u2019s northern Basque Country. Here, a team of engineers is constructing\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/east-kolkata-wetlands/",
-      "date": "2026-08-13",
-      "score": 0.998
-    },
-    {
-      "title": "What We\u2019re Reading: New York City\u2019s Summer of Soundwalking",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Hearing things What does New York City sound like if you really, really listen? For a Ne\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-new-york-city-soundwalk-summer/",
-      "date": "2026-08-12",
+      "sourceUrl": "https://reasonstobecheerful.world/mondragon-cooperatives-spain/",
+      "date": "2026-08-20",
       "score": 0.9961
     },
     {
-      "title": "Back on track: Matt Haig on finding acceptance",
-      "blurb": "At 50 years old and with the release of his new book The Midnight Train, Matt Haig explains why acceptance has descended on him The post Back on track: Matt Haig on finding acceptance appeared first on Positive News .",
+      "title": "The mobile library bringing books to rural Syria",
+      "blurb": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war The post The mobile library bringing books to rural Syria appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/arts/regret-is-a-major-theme-of-my-work-matt-haig/",
-      "date": "2026-08-12",
-      "score": 0.993
+      "sourceUrl": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
+      "date": "2026-08-20",
+      "score": 0.9833
     },
     {
-      "title": "Three sports groups using movement to tackle isolation",
-      "blurb": "These three groups are using sport and movement to create connection, purpose and community The post Three sports groups using movement to tackle isolation appeared first on Positive News .",
+      "title": "How to forge meaningful human connections \u2013 according to you",
+      "blurb": "We asked: how do you nurture meaningful human connections in a busy, disconnected world? This is what you said The post How to forge meaningful human connections \u2013 according to you appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/sport/three-sports-groups-using-movement-to-tackle-isolation/",
-      "date": "2026-08-11",
-      "score": 0.9682
-    },
-    {
-      "title": "How birdwatching has become an unexpected hit with Gen Z",
-      "blurb": "A new wave of young birders is helping to turn one of Britain\u2019s oldest pastimes into one of its fastest-growing hobbies The post How birdwatching has become an unexpected hit with Gen Z appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/conservation/birdwatching-takes-off-among-gen-z/",
-      "date": "2026-08-10",
-      "score": 0.9997
+      "sourceUrl": "https://www.positive.news/society/how-do-you-forge-meaningful-human-connections/",
+      "date": "2026-08-19",
+      "score": 0.9956
     }
   ]
 }
