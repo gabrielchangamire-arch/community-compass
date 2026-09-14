@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-09-07T14:31:36Z",
+  "generated_at": "2026-09-14T15:18:30Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Fitted with a Berlin Heart, Little Macs Is \u2018Absolutely Thriving\u2019 While He Waits for a Heart Transplant",
-      "blurb": "From the UK comes the story of a baby called Macs, who seemed poised for final-stage heart failure, but who has been saved by a device called a Berlin Heart. The only device of its kind available for babies and children with severe heart failure, the Berlin Heart takes over pump\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/fitted-with-a-berlin-heart-little-macs-is-absolutely-thriving-while-he-waits-for-a-heart-transplant/",
-      "date": "2026-09-07",
-      "score": 0.9969
-    },
-    {
-      "title": "Chance Encounter Between 2 Indiana Graduates Rescues Former College Ball Star from Homelessness",
-      "blurb": "See that red backpack there? Sampson James used it to carry around his meager possessions during a stint of homelessness. Little did James know at the time this photo was taken, however, that it was also carrying around his salvation. This remarkable story of fraternity\u2014philosop\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/chance-encounter-between-2-indiana-graduates-rescues-former-college-ball-star-from-homelessness/",
-      "date": "2026-09-07",
-      "score": 0.9502
-    },
-    {
-      "title": "Teen Discovers Coconut Fungi Can Filter Plastic and Sunscreen From Sea\u2014And Wins Science Fair",
-      "blurb": "An East Honolulu high school student discovered a fungi in coconut husks that could clean up plastics and sunscreen from the ocean\u2014and her won multiple awards at the Hawai\u02bbi State Science & Engineering Fair. Vera Wang, a senior at Kaiser High School, won in multiple categories a\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teen-discovers-coconut-fungi-can-filter-plastic-and-sunscreen-from-sea/",
-      "date": "2026-09-06",
-      "score": 0.9991
-    },
-    {
-      "title": "Good News in History, September 6",
-      "blurb": "31 years ago today, Cal Ripken Jr. broke Lou Gehrig\u2019s baseball record when he played in his 2,131st consecutive game. Once considered a near-impossible feat, \u201cthe streak,\u201d which continued for 2,632 games, earned Cal the nickname, Iron Man. The televised game, between the Orioles\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060906/",
-      "date": "2026-09-06",
-      "score": 0.9991
-    },
-    {
-      "title": "Astronomers Create Gallery of 16 \u2018Cosmic Gems\u2019 to Show Variety of Shapes a Galaxy Can Be",
-      "blurb": "Space scientists have put together a photo gallery of \u2018cosmic gems\u2019 to showcase the variety of sizes, shapes, and high-energy features of distant galaxies. Astronomers put galaxies into three main categories: spirals like our own Milky Way with arms emanating from their cores, e\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/astronomers-new-gallery-of-16-cosmic-gems/",
-      "date": "2026-09-06",
-      "score": 0.9936
-    },
-    {
-      "title": "Gym Installed For Homeless People Helps Improve Their Health And Habits\u2013Without Leaving the Shelter",
-      "blurb": "A gym equipment company from Finland is bringing physical fitness to the homeless community of Paris. Inactivity is a growing public health concern, but especially in lower income communities. To address this challenge, Omnigym installed an outdoor gym at a homeless shelter in t\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/new-gym-in-paris-helps-homeless-improve-their-health-and-habits/",
-      "date": "2026-09-06",
-      "score": 0.9471
-    },
-    {
-      "title": "The Spark: Your Laundromat Could Be a Library",
-      "blurb": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful\u2019s weekly newsletter here and you\u2019ll get The Spark in you\u2026",
+      "title": "With Adapted Sailing, the Sea Is for Everyone",
+      "blurb": "C\u00e9sar Maquieira has always loved the sea. Born and raised in the northwest of Spain, much of which is bordered by the Atlantic Ocean, he would for years regularly go fishing and on boat trips, and he dabbled in scuba diving. There was something about the great expanse of azure..\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
-      "date": "2026-09-04",
+      "sourceUrl": "https://reasonstobecheerful.world/adapted-sailing-school/",
+      "date": "2026-09-14",
+      "score": 0.9995
+    },
+    {
+      "title": "How \u2018housing first\u2019 is helping people leave rough sleeping behind",
+      "blurb": "A housing model that gives people a permanent home before asking them to tackle their other problems has achieved striking results The post How \u2018housing first\u2019 is helping people leave rough sleeping behind appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/how-housing-first-is-helping-people-leave-rough-sleeping-behind/",
+      "date": "2026-09-14",
+      "score": 0.9975
+    },
+    {
+      "title": "Good News in History September 14",
+      "blurb": "41 years ago today, the Penang Bridge officially opened connecting the Malay Peninsula with the island of Penang. Stretching 5.2 miles across the Penang Strait, it\u2019s the second-longest bridge over water in Malaysia. Architects decided to use a cable-stayed suspension design simi\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060914/",
+      "date": "2026-09-14",
+      "score": 0.9882
+    },
+    {
+      "title": "Good News in History September 13",
+      "blurb": "Happy 75th Birthday to actor-comedian Jean Smart, the brilliant TV star and winner of 7 Emmys, 3 Golden Globes and many other awards for her lovable characters in Designing Women, Frasier, and Hacks. Check out her trophy case and WATCH a recent talk show segment honoring her for\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060913/",
+      "date": "2026-09-13",
       "score": 0.9998
     },
     {
+      "title": "Researchers Use Math to Ensure a Wordle Win 99% of the Time",
+      "blurb": "Millions of people playing their daily Wordle games will be eager to hear about this new research. Using information theory, the team of researchers from Binghamton University and State University of New York has developed a method to solve the game with a 99% success rate. In t\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
+      "date": "2026-09-13",
+      "score": 0.9995
+    },
+    {
+      "title": "Elephants Can Think Before They Act and Resist Impulsive Behavior, Shows Study",
+      "blurb": "Elephants can think before they act, as well as resist impulsive behavior, reveals new research that adds to growing evidence of elephants possessing sophisticated cognitive skills. Experiments at the National Elephant Institute in Thailand show Asian pachyderms are able to deny\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/elephants-can-think-before-they-act-and-resist-impulsive-behavior/",
+      "date": "2026-09-13",
+      "score": 0.9979
+    },
+    {
+      "title": "The Blackout of \u201865 Left 800K Trapped in NYC Subway \u2013 6 Hours Later People Were Inspired by Each Other",
+      "blurb": "In November of 1965 a great blackout spread across the northeastern United States and parts of Canada. 30 million people were affected and Lynn Lowin was one of them. Now in her senior years, she wanted to finally tell her inspiring tale from 61 years ago, so reached out to Good\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/the-massive-blackout-of-65-left-people-inspired-by-each-other/",
+      "date": "2026-09-12",
+      "score": 0.9948
+    },
+    {
       "title": "What went right this week: the good news that matters",
-      "blurb": "A \u2018superhuman\u2019 tool to spot heart disease, France slows fast fashion, and a species comes back from the brink, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/",
-      "date": "2026-09-04",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
+      "date": "2026-09-11",
+      "score": 0.9995
+    },
+    {
+      "title": "\u2018We Held Each Other Up\u2019",
+      "blurb": "This week in our New York City office, we found ourselves talking about what we remembered from 25 years ago: the darkness, the sadness \u2014 and the ways people cared for one another. Our managing director, Rebecca Faulkner, is an award-winning poet and proud transplant to New York\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/we-held-each-other-up/",
+      "date": "2026-09-11",
+      "score": 0.9995
+    },
+    {
+      "title": "In pictures: 10 years of the Comedy Wildlife Photography Awards",
+      "blurb": "Ten years of Comedy Wildlife Photography is brought to life in a new immersive experience in London this autumn The post In pictures: 10 years of the Comedy Wildlife Photography Awards appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/celebrating-10-years-of-the-nikon-comedy-wildlife-photography-awards/",
+      "date": "2026-09-10",
+      "score": 0.9994
+    },
+    {
+      "title": "The \u2018National Park\u2019 That Stretches From Coast to Coast",
+      "blurb": "On Doug Tallamy\u2019s 10-acre property in rural Pennsylvania, the evidence arrives on wings. Wood thrushes now nest in shrubs that were once cut for hay. Luna moths \u2014 emerald-green giants that had become increasingly rare \u2014 have reached record numbers. Tallamy recounts enthusiastica\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/the-national-park-that-stretches-from-coast-to-coast/",
+      "date": "2026-09-10",
       "score": 0.996
     },
     {
-      "title": "\u2018My life-changing career break happened because I was wearing a second hand coat\u2019",
-      "blurb": "Richard E Grant struck gold in a charity shop \u2013 now he\u2019s fronting a camping to inspire others to do the same The post \u2018My life-changing career break happened because I was wearing a second hand coat\u2019 appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
-      "date": "2026-09-03",
-      "score": 0.9949
-    },
-    {
-      "title": "What We\u2019re Reading: In Baltimore, 911 Now Has More Ways to Help",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Call and response In Baltimore, when someone calls 911 about a mental health crisis, mob\u2026",
+      "title": "What We\u2019re Reading: What If You Could Opt Out of Algorithms?",
+      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Safe scrolling In December, Australia became the first country in the world to ban child\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-baltimore-911-crisis-support/",
-      "date": "2026-09-02",
-      "score": 0.9564
-    },
-    {
-      "title": "What Brazil\u2019s supercentenarians can teach us about living to 120",
-      "blurb": "Why does Brazil have so many supercentenarians? Researchers are trying to find out \u2013 and the early findings are in The post What Brazil\u2019s supercentenarians can teach us about living to 120 appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/what-brazils-supercentenarians-can-teach-us-about-living-to-120/",
-      "date": "2026-09-02",
-      "score": 0.9454
-    },
-    {
-      "title": "How London\u2019s low emissions zone is helping children breathe easier",
-      "blurb": "Seven years on from London\u2019s low emission zone, researchers are measuring its impact on health \u2013 with striking results for children\u2019s lungs The post How London\u2019s low emissions zone is helping children breathe easier appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/londons-ulez-linked-to-healthier-lung-growth-in-children/",
-      "date": "2026-09-01",
-      "score": 0.9989
+      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-australia-says-algorithms-optional/",
+      "date": "2026-09-09",
+      "score": 0.9917
     }
   ]
 }
