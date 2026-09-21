@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-09-14T15:18:30Z",
+  "generated_at": "2026-09-21T15:23:24Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "With Adapted Sailing, the Sea Is for Everyone",
-      "blurb": "C\u00e9sar Maquieira has always loved the sea. Born and raised in the northwest of Spain, much of which is bordered by the Atlantic Ocean, he would for years regularly go fishing and on boat trips, and he dabbled in scuba diving. There was something about the great expanse of azure..\u2026",
+      "title": "Historic Philanthropic Gift Will Expand Veterinary Care Access to Millions of Americans and Their Pets",
+      "blurb": "Hoping to allow millions of pet owners to access critical veterinary care beyond their budgets, a philanthropic organization has announced a groundbreaking $250 million commitment over the next 5 years The initiative represents one of the largest, private philanthropic investmen\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/historic-philanthropic-gift-will-expand-veterinary-care-access-to-millions-of-americans-and-their-pets/",
+      "date": "2026-09-21",
+      "score": 0.9993
+    },
+    {
+      "title": "Cavemen Used Mammoth Tusk Patterns to Create Unique Art, Reveals New Research",
+      "blurb": "[Stephen Beech | SWNS news] Cavemen used mammoth tusk patterns to create unique art, reveals new research. Intricate designs engraved on the surface of 18,000-year-old female figurines carved from mammoth ivory were inspired by \u201cdistinctive\u201d growth patterns visible in the tusks,\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/cavemen-used-mammoth-tusk-patterns-to-create-unique-art-reveals-new-research/",
+      "date": "2026-09-21",
+      "score": 0.9993
+    },
+    {
+      "title": "Why Great Plains Ranchers Are Setting Fire to Their Own Land",
+      "blurb": "Smoke hangs thick over southern Oklahoma\u2019s Arbuckle Mountains as flames lick through prairie grass toward a stand of eastern red cedar trees. To many, the scene would look like a disaster in the making. But to father-son ranchers Chuck and Seth Coffey, the fire is a blessing \u2014 i\u2026",
       "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/adapted-sailing-school/",
-      "date": "2026-09-14",
-      "score": 0.9995
+      "sourceUrl": "https://reasonstobecheerful.world/great-plains-ranchers-prescribed-burns/",
+      "date": "2026-09-21",
+      "score": 0.9962
     },
     {
-      "title": "How \u2018housing first\u2019 is helping people leave rough sleeping behind",
-      "blurb": "A housing model that gives people a permanent home before asking them to tackle their other problems has achieved striking results The post How \u2018housing first\u2019 is helping people leave rough sleeping behind appeared first on Positive News .",
+      "title": "Good News in History September 21",
+      "blurb": "45 years ago today, Sandra Day O\u2019Connor was sworn in as the first female Supreme Court Justice. She was approved in the Senate 99-0, with one Montana Senator being absent from who vote, who later sent her a copy of A River Runs Through It, by way of an apology. In her first year\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060921/",
+      "date": "2026-09-21",
+      "score": 0.9949
+    },
+    {
+      "title": "The race to get more young people in the UK into work, education or training",
+      "blurb": "The UK has one of the highest NEET rates for young adults in Europe. New figures offer some encouragement The post The race to get more young people in the UK into work, education or training appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/how-housing-first-is-helping-people-leave-rough-sleeping-behind/",
-      "date": "2026-09-14",
-      "score": 0.9975
+      "sourceUrl": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
+      "date": "2026-09-21",
+      "score": 0.9947
     },
     {
-      "title": "Good News in History September 14",
-      "blurb": "41 years ago today, the Penang Bridge officially opened connecting the Malay Peninsula with the island of Penang. Stretching 5.2 miles across the Penang Strait, it\u2019s the second-longest bridge over water in Malaysia. Architects decided to use a cable-stayed suspension design simi\u2026",
+      "title": "Korean Drone Rescue Program Helps Mozambique Achieve Zero Fatalities During Worst Flood in Decades",
+      "blurb": "In January, a community in northern Mozambique experienced one of its worst floods in decades, yet the raging waters failed to claim a single life. This miracle was made possible thanks to a small squadron of drones and their pilots tasked with informing search and rescue effort\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060914/",
-      "date": "2026-09-14",
-      "score": 0.9882
+      "sourceUrl": "https://www.goodnewsnetwork.org/korean-drone-rescue-program-helps-mozambique-achieve-zero-fatalities-during-worst-flood-in-decades/",
+      "date": "2026-09-21",
+      "score": 0.9919
     },
     {
-      "title": "Good News in History September 13",
-      "blurb": "Happy 75th Birthday to actor-comedian Jean Smart, the brilliant TV star and winner of 7 Emmys, 3 Golden Globes and many other awards for her lovable characters in Designing Women, Frasier, and Hacks. Check out her trophy case and WATCH a recent talk show segment honoring her for\u2026",
+      "title": "Good News in History September 20",
+      "blurb": "46 years ago today, Blizzard of Ozz, the debut solo album of the great and lately deceased metal singer Ozzy Osbourne, was released to moderate reviews and success. However it grew to become a staple of the genre, and was ranked as the ninth-greatest heavy metal album of all tim\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events060913/",
-      "date": "2026-09-13",
-      "score": 0.9998
+      "sourceUrl": "https://www.goodnewsnetwork.org/events060920/",
+      "date": "2026-09-20",
+      "score": 0.9997
     },
     {
-      "title": "Researchers Use Math to Ensure a Wordle Win 99% of the Time",
-      "blurb": "Millions of people playing their daily Wordle games will be eager to hear about this new research. Using information theory, the team of researchers from Binghamton University and State University of New York has developed a method to solve the game with a 99% success rate. In t\u2026",
+      "title": "165-Mile Bike Trail Through Minnesota Finally Completed After 30 years, One of the Longest in America",
+      "blurb": "After more than 30 years of planning, construction, and fundraising, a paved bike trail ambling through 165 miles of Minnesota beauty has officially been completed\u2014and now becomes one of the longest paved cycling trails in America. From the Mississippi river to the wilderness of\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
-      "date": "2026-09-13",
-      "score": 0.9995
+      "sourceUrl": "https://www.goodnewsnetwork.org/165mi-bike-trail-through-minnesota-finally-completed-after-30-yrs/",
+      "date": "2026-09-20",
+      "score": 0.998
     },
     {
-      "title": "Elephants Can Think Before They Act and Resist Impulsive Behavior, Shows Study",
-      "blurb": "Elephants can think before they act, as well as resist impulsive behavior, reveals new research that adds to growing evidence of elephants possessing sophisticated cognitive skills. Experiments at the National Elephant Institute in Thailand show Asian pachyderms are able to deny\u2026",
+      "title": "Couple Fosters 59 Dogs in Retirement: \u2018We love to get them out of the kennels\u2019",
+      "blurb": "Meet the British couple who spent the last 15 years fostering 59 dogs\u2014with no plans of stopping. While working from home and designing electronics, Nicole and Gary Wordsworth have been taking in pups from the Battersea Dogs Home in Buckinghamshire. Now retired, the two in their\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/elephants-can-think-before-they-act-and-resist-impulsive-behavior/",
-      "date": "2026-09-13",
-      "score": 0.9979
+      "sourceUrl": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+      "date": "2026-09-20",
+      "score": 0.9893
     },
     {
-      "title": "The Blackout of \u201865 Left 800K Trapped in NYC Subway \u2013 6 Hours Later People Were Inspired by Each Other",
-      "blurb": "In November of 1965 a great blackout spread across the northeastern United States and parts of Canada. 30 million people were affected and Lynn Lowin was one of them. Now in her senior years, she wanted to finally tell her inspiring tale from 61 years ago, so reached out to Good\u2026",
+      "title": "New York City is Putting \u2018The Park\u2019 Back in Park Avenue \u2013 And Adding a Protected Bike Lane (LOOK)",
+      "blurb": "Until the 1920s Park Avenue in Manhattan actually park running through it. Now, New York City has unveiled a new plan for transforming Park Avenue back into its original natural character, adding trees, benches, and a protected bike lane. Mayor Mamdani and the NYC Department of\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/the-massive-blackout-of-65-left-people-inspired-by-each-other/",
-      "date": "2026-09-12",
-      "score": 0.9948
+      "sourceUrl": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
+      "date": "2026-09-19",
+      "score": 0.9977
     },
     {
       "title": "What went right this week: the good news that matters",
-      "blurb": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
-      "date": "2026-09-11",
-      "score": 0.9995
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
+      "date": "2026-09-18",
+      "score": 0.9973
     },
     {
-      "title": "\u2018We Held Each Other Up\u2019",
-      "blurb": "This week in our New York City office, we found ourselves talking about what we remembered from 25 years ago: the darkness, the sadness \u2014 and the ways people cared for one another. Our managing director, Rebecca Faulkner, is an award-winning poet and proud transplant to New York\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/we-held-each-other-up/",
-      "date": "2026-09-11",
-      "score": 0.9995
-    },
-    {
-      "title": "In pictures: 10 years of the Comedy Wildlife Photography Awards",
-      "blurb": "Ten years of Comedy Wildlife Photography is brought to life in a new immersive experience in London this autumn The post In pictures: 10 years of the Comedy Wildlife Photography Awards appeared first on Positive News .",
+      "title": "51 ways to get the planet tipping the right way",
+      "blurb": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising The post 51 ways to get the planet tipping the right way appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/celebrating-10-years-of-the-nikon-comedy-wildlife-photography-awards/",
-      "date": "2026-09-10",
-      "score": 0.9994
-    },
-    {
-      "title": "The \u2018National Park\u2019 That Stretches From Coast to Coast",
-      "blurb": "On Doug Tallamy\u2019s 10-acre property in rural Pennsylvania, the evidence arrives on wings. Wood thrushes now nest in shrubs that were once cut for hay. Luna moths \u2014 emerald-green giants that had become increasingly rare \u2014 have reached record numbers. Tallamy recounts enthusiastica\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/the-national-park-that-stretches-from-coast-to-coast/",
-      "date": "2026-09-10",
-      "score": 0.996
-    },
-    {
-      "title": "What We\u2019re Reading: What If You Could Opt Out of Algorithms?",
-      "blurb": "Welcome back to our weekly behind-the-scenes glimpse at what\u2019s getting our team talking. Tell us what you\u2019ve been reading at info@reasonstobecheerful.world and we just might feature it here. Safe scrolling In December, Australia became the first country in the world to ban child\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-australia-says-algorithms-optional/",
-      "date": "2026-09-09",
-      "score": 0.9917
+      "sourceUrl": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
+      "date": "2026-09-17",
+      "score": 0.9971
     }
   ]
 }
