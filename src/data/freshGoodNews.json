@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-10-05T17:29:59Z",
+  "generated_at": "2026-10-12T18:17:16Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Good News in History, October 5",
-      "blurb": "20 years ago today, the 60-year-old rock star Jon Bon Jovi, who\u2019s sold 100 million records, launched a charity foundation to combat poverty issues like food and housing to ease economic despair. One of the flagship initiatives is his \u201cJBJ Soul Kitchen\u201d where guests pay what they\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061005/",
-      "date": "2026-10-05",
-      "score": 0.9984
-    },
-    {
-      "title": "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success",
-      "blurb": "One of the first-ever eastern lowland gorillas to be successfully returned to the wild gave birth on May 21st in her new/old home of Virunga National Park in the Democratic Republic of the Congo (DRC). Every new gorilla infant is its own conservation success story, but coming as\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
-      "date": "2026-10-05",
-      "score": 0.9983
-    },
-    {
-      "title": "Meet the 14-year-old uncovering London\u2019s lost history",
-      "blurb": "Seasoned mudlark Emmylou Vaxby has spent nearly a decade searching the Thames foreshore for fragments of the city\u2019s past The post Meet the 14-year-old uncovering London\u2019s lost history appeared first on Positive News .",
+      "title": "Putting a ring on it: the plan to green London\u2019s beloved edges",
+      "blurb": "Ten million people will benefit from a more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces The post Putting a ring on it: the plan to green London\u2019s beloved edges appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
-      "date": "2026-10-05",
-      "score": 0.9958
+      "sourceUrl": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+      "date": "2026-10-12",
+      "score": 0.9992
     },
     {
-      "title": "Nonprofit Brings Free Music Education to More Than 20,000 Miami Students in 131 Schools",
-      "blurb": "Down in Miami-Dade County, educators are seeing how school doesn\u2019t mean a thing if it ain\u2019t got that swing. Showing up, taking an interest in school and the community therein, comes that much easier for the some 21,000 students benefiting from free music classes offered at 131 s\u2026",
+      "title": "\u2018Like Caring for a Pet\u2019 \u2013 the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+      "blurb": "An open-source app has thousands of Berliners adopting and watering city trees as if they were their pets, helping keep the city green amid repeated summer heatwaves. Gie\u00df den Kiez translates to \u201cwater your neighborhood,\u201d and offers users a map of the city with each one of the r\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
-      "date": "2026-10-05",
-      "score": 0.9847
+      "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+      "date": "2026-10-12",
+      "score": 0.9976
     },
     {
-      "title": "Star Quarterback Wants to Help Gen Z Handle Money with New Video Series \u2018Finance with Fernando\u2019",
-      "blurb": "As starting quarterback, Heisman Trophy winner, #1 NFL Draft pick, and aspiring philanthropist, Fernando Mendoza seems all lined up for a dynamite career in football. Yet as the holder of an MBA in Business Administration from Kelley School of Business at Indiana University, Men\u2026",
+      "title": "Teen\u2019s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
+      "blurb": "When summer\u2019s heat becomes too much to bear, a glass of iced lemonade is a welcome relief, but what tens of thousands across Ohio have learned is that lemonade can provide a different sort of relief as well. For 8 years, children\u2019s lemonade stands pop up all over the city in Jul\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/star-quarterback-wants-to-help-gen-z-handle-money-with-new-video-series-finance-with-fernando/",
-      "date": "2026-10-05",
-      "score": 0.9571
+      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "date": "2026-10-12",
+      "score": 0.9949
     },
     {
-      "title": "Finalists Win Big Laughs in The Comedy Wildlife Photography Awards \u2013 LOOK",
-      "blurb": "It\u2019s that time of the year again, when the cutest, most spontaneous snapshots that capture the amusing side of nature, compete in a bid to win the Comedy Wildlife Photography Awards. The Nikon sponsored awards just released its finalists for the 2026 competition, featuring 40 in\u2026",
+      "title": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is \u2018Part of my soul\u2019",
+      "blurb": "A \u201cgem\u201d of a landscape in eastern Texas has been sold by its multigenerational owners for the purpose of becoming a state park. The property is the longest remaining, contiguous piece of land on Lake Palestine\u2019s shore, and contains pine woods, short bluffs, wetlands, and a pecan\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
-      "date": "2026-10-04",
-      "score": 0.9957
+      "sourceUrl": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
+      "date": "2026-10-12",
+      "score": 0.9869
     },
     {
-      "title": "Pomegranates, Walnuts and Berries Could Unlock Heart Failure Treatment By Producing Urolithin A",
-      "blurb": "A compound produced in the body after eating pomegranates improves heart function by up to 80%, particularly for a type of heart failure with limited treatment options. Scientists at King\u2019s College London have discovered that urolithin A \u2013 a natural compound produced in the body\u2026",
+      "title": "Good News in History, October 12",
+      "blurb": "81 years ago today, Desmond Doss became the only conscientious objector to win the Medal of Honor after saving an estimated 75 men during the Battle of Hacksaw Ridge in the invasion of Okinawa. Doss refused to carry a weapon into combat because of his personal beliefs as a Seven\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
-      "date": "2026-10-04",
-      "score": 0.9124
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061012/",
+      "date": "2026-10-12",
+      "score": 0.9536
     },
     {
-      "title": "Rare 1-in-100M \u2018Ghost Lobster\u2019 Goes to School to Help Scientists Crack Genetic Mystery\u2013in Time for Halloween",
-      "blurb": "A \u2018ghost\u2019 lobster so rare that the odds of finding one are 1 in 100 million is going to school, and its new home is Maine\u2019s Marine Science Center\u2014arriving just in time for Halloween. The rare white crustacean was welcomed to the University of New England after being donated by t\u2026",
+      "title": "Good News in History, October 11",
+      "blurb": "51 years ago today, Saturday Night Live premiered on NBC with George Carlin as host. The seminal comedy television program in American history, SNL has launched the careers of dozens of talented writers, comics, and actors. Broadcast from Studio 8H at NBC\u2019s headquarters in the C\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
-      "date": "2026-10-04",
-      "score": 0.7829
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061011/",
+      "date": "2026-10-11",
+      "score": 0.9997
     },
     {
-      "title": "The Spark: The \u2018Community Lighthouses\u2019 Where Neighbors Help Neighbors",
-      "blurb": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful\u2019s weekly newsletter here and you\u2019ll get The Spark in you\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
-      "date": "2026-10-02",
-      "score": 0.9998
+      "title": "Giant Tortoise Population is Thriving\u2013Survey Finds 180,000 on One Island Chain",
+      "blurb": "A landmark survey of the world\u2019s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving. The latest count of tortoises on the Seychelles atoll of Aldabra revealed that there are approximately 180,000 living on the islands. This is\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+      "date": "2026-10-11",
+      "score": 0.9987
     },
     {
       "title": "What went right this week: the good news that matters",
-      "blurb": "The \u2018alternative Nobel prize\u2019, global progress on ageism, and a boost for gorillas, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "blurb": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson\u2019s, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
-      "date": "2026-10-02",
-      "score": 0.9993
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "date": "2026-10-09",
+      "score": 0.9996
     },
     {
-      "title": "Reviving L.A.\u2019s Burned Landscapes, One Seed Bomb at a Time",
-      "blurb": "If you\u2019ve been through a wildfire, you may never forget the torrid heat, the acrid smell of smoke and the threatening sight of flames closing in. On January 7, 2025, the Goodyear family joined 200,000 other Angelenos in grabbing emergency items and fleeing from raging wildfires\u2026",
-      "sourceLabel": "Reasons to be Cheerful",
-      "sourceUrl": "https://reasonstobecheerful.world/california-fires-seed-bomb-project/",
-      "date": "2026-10-01",
-      "score": 0.9945
+      "title": "\u2018I can breathe again\u2019. Readers share their experiences of a more balanced media diet",
+      "blurb": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel? The post \u2018I can breathe again\u2019. Readers share their experiences of a more balanced media diet appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+      "date": "2026-10-09",
+      "score": 0.9972
     },
     {
-      "title": "Why good leaders listen",
-      "blurb": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions The post Why good leaders listen appeared first on Positive News .",
+      "title": "Prince William launches kit to help communities prepare for emergencies",
+      "blurb": "The free, how-to resource shows people how to build resilience in their communities The post Prince William launches kit to help communities prepare for emergencies appeared first on Positive News .",
       "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
-      "date": "2026-10-01",
-      "score": 0.9753
+      "sourceUrl": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+      "date": "2026-10-08",
+      "score": 0.9953
+    },
+    {
+      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
+      "blurb": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see The post A future worth building. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+      "date": "2026-10-07",
+      "score": 0.9907
+    },
+    {
+      "title": "The women putting community at the heart of elephant conservation",
+      "blurb": "Across Africa, women are challenging old assumptions about who conservation is for \u2013 and who gets to lead it The post The women putting community at the heart of elephant conservation appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+      "date": "2026-10-06",
+      "score": 0.9932
     }
   ]
 }
