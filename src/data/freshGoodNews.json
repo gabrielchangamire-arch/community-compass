@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-12T18:17:16Z",
+  "generated_at": "2026-10-19T15:56:18Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
+    {
+      "title": "Good News in History, October 19",
+      "blurb": "6 years ago today, the high-profile sale of a Ming Dynasty artwork brought the world not only into contact with the most remarkable painting of a stone ever made, but also the depth of the Chinese relationship with the natural world. Called Ten Views of Lingbi Rock, the painting\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061019/",
+      "date": "2026-10-19",
+      "score": 0.9997
+    },
+    {
+      "title": "Unprecedented Collab Between China and the Met Uncovers Secrets of Chinese Mural During Exhaustive Reproduction",
+      "blurb": "A major arts and heritage conservation project in China has born unexpected fruit thousands of miles away in New York City. In the Chinese arts and antiquities gallery of the Metropolitan Museum of Art, a 50-foot-long mural devours the attention of an entire room with its arrang\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+      "date": "2026-10-19",
+      "score": 0.9977
+    },
+    {
+      "title": "A Wall Meant to Divide Is Uniting Left and Right in Texas",
+      "blurb": "In August, videos of bulldozers ripping up the mouth of the iconic Santa Elena Canyon in Texas\u2019 Big Bend went viral, propelling one of the country\u2019s most remote national parks into the national spotlight. Construction crews were hard at work in the early stages of cutting a bran\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/",
+      "date": "2026-10-19",
+      "score": 0.9975
+    },
+    {
+      "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
+      "blurb": "An experiment is helping a Somerset community see its landscape through the eyes of wildlife \u2013 and plot a 30-year route to change it The post Volunteers became salmon, deer and earthworms. Then they set out to save their river appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
+      "date": "2026-10-19",
+      "score": 0.996
+    },
+    {
+      "title": "Brazil Ends Long Tradition of 6-Day Workweek via Constitutional Amendment",
+      "blurb": "With Brazil\u2019s senate voting 75 to 1 in favor, one wonders what took them so long? The nation was one of the richest in the world that still had a customary 6-day workweek, with fulltime employment considered 44 hours, rather than the 40 we know of in the US. That changed with th\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/brazil-ends-long-tradition-of-6-day-workweek-via-constitutional-amendment/",
+      "date": "2026-10-19",
+      "score": 0.854
+    },
+    {
+      "title": "Tiny Black Cat Stuck in Car Engine Brings Unexpected Joy to Couple With Halloween Wedding Anniversary",
+      "blurb": "A high school teacher in Sandy Springs, Georgia, got an unexpected surprise on her way to work earlier this month. \u201cIt was a pretty wild story,\u201d she told GNN\u2014and it happened just in time to celebrate her Halloween wedding anniversary. \u201cMy husband and I were driving to pick up bi\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
+      "date": "2026-10-18",
+      "score": 0.9996
+    },
+    {
+      "title": "Contact With Nature is Linked to Healthy Eating, Shows Encouraging New Study",
+      "blurb": "A new study has discovered that contact with nature may help people develop healthier eating habits. The research from Anglia Ruskin University in the UK is reportedly the first to provide evidence that exposure to natural environments can influence people\u2019s relationship with fo\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
+      "date": "2026-10-18",
+      "score": 0.9992
+    },
+    {
+      "title": "Retired Couple Surprised With New HVAC System Worth $16k in a \u2018Feel the Love\u2019 Program That\u2019s Aided 3100 Folks",
+      "blurb": "An Oregon couple facing financial hardship can now endure the winter in comfort and with \u2018peace of mind\u2019 since a new HVAC system was installed in their home at no cost. Diane and Brian Johnsen of Beaverton received a complete heating and cooling system installed\u2014valued at approx\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+      "date": "2026-10-18",
+      "score": 0.9959
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "blurb": "Indonesia\u2019s plummeting poverty rate, America\u2019s largest wildlife bridge, and \u2018a new era\u2019 for the River Thames, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+      "date": "2026-10-16",
+      "score": 0.9993
+    },
+    {
+      "title": "Wildlife photographer of the year 2026, the winning images",
+      "blurb": "This year\u2019s competition has attracted a record-breaking number of entries The post Wildlife photographer of the year 2026, the winning images appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+      "date": "2026-10-14",
+      "score": 0.9996
+    },
+    {
+      "title": "The \u2018in awe\u2019 artist painting a wilder Britain",
+      "blurb": "Rebecca Howard\u2019s paintings capture a wilder Britain in the making. Her exhibition celebrates nine projects restoring nature The post The \u2018in awe\u2019 artist painting a wilder Britain appeared first on Positive News .",
+      "sourceLabel": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
+      "date": "2026-10-13",
+      "score": 0.9994
+    },
     {
       "title": "Putting a ring on it: the plan to green London\u2019s beloved edges",
       "blurb": "Ten million people will benefit from a more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces The post Putting a ring on it: the plan to green London\u2019s beloved edges appeared first on Positive News .",
@@ -10,94 +98,6 @@
       "sourceUrl": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
       "date": "2026-10-12",
       "score": 0.9992
-    },
-    {
-      "title": "\u2018Like Caring for a Pet\u2019 \u2013 the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
-      "blurb": "An open-source app has thousands of Berliners adopting and watering city trees as if they were their pets, helping keep the city green amid repeated summer heatwaves. Gie\u00df den Kiez translates to \u201cwater your neighborhood,\u201d and offers users a map of the city with each one of the r\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
-      "date": "2026-10-12",
-      "score": 0.9976
-    },
-    {
-      "title": "Teen\u2019s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
-      "blurb": "When summer\u2019s heat becomes too much to bear, a glass of iced lemonade is a welcome relief, but what tens of thousands across Ohio have learned is that lemonade can provide a different sort of relief as well. For 8 years, children\u2019s lemonade stands pop up all over the city in Jul\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "date": "2026-10-12",
-      "score": 0.9949
-    },
-    {
-      "title": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is \u2018Part of my soul\u2019",
-      "blurb": "A \u201cgem\u201d of a landscape in eastern Texas has been sold by its multigenerational owners for the purpose of becoming a state park. The property is the longest remaining, contiguous piece of land on Lake Palestine\u2019s shore, and contains pine woods, short bluffs, wetlands, and a pecan\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
-      "date": "2026-10-12",
-      "score": 0.9869
-    },
-    {
-      "title": "Good News in History, October 12",
-      "blurb": "81 years ago today, Desmond Doss became the only conscientious objector to win the Medal of Honor after saving an estimated 75 men during the Battle of Hacksaw Ridge in the invasion of Okinawa. Doss refused to carry a weapon into combat because of his personal beliefs as a Seven\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061012/",
-      "date": "2026-10-12",
-      "score": 0.9536
-    },
-    {
-      "title": "Good News in History, October 11",
-      "blurb": "51 years ago today, Saturday Night Live premiered on NBC with George Carlin as host. The seminal comedy television program in American history, SNL has launched the careers of dozens of talented writers, comics, and actors. Broadcast from Studio 8H at NBC\u2019s headquarters in the C\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061011/",
-      "date": "2026-10-11",
-      "score": 0.9997
-    },
-    {
-      "title": "Giant Tortoise Population is Thriving\u2013Survey Finds 180,000 on One Island Chain",
-      "blurb": "A landmark survey of the world\u2019s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving. The latest count of tortoises on the Seychelles atoll of Aldabra revealed that there are approximately 180,000 living on the islands. This is\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
-      "date": "2026-10-11",
-      "score": 0.9987
-    },
-    {
-      "title": "What went right this week: the good news that matters",
-      "blurb": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson\u2019s, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
-      "date": "2026-10-09",
-      "score": 0.9996
-    },
-    {
-      "title": "\u2018I can breathe again\u2019. Readers share their experiences of a more balanced media diet",
-      "blurb": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel? The post \u2018I can breathe again\u2019. Readers share their experiences of a more balanced media diet appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
-      "date": "2026-10-09",
-      "score": 0.9972
-    },
-    {
-      "title": "Prince William launches kit to help communities prepare for emergencies",
-      "blurb": "The free, how-to resource shows people how to build resilience in their communities The post Prince William launches kit to help communities prepare for emergencies appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
-      "date": "2026-10-08",
-      "score": 0.9953
-    },
-    {
-      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
-      "blurb": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see The post A future worth building. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
-      "date": "2026-10-07",
-      "score": 0.9907
-    },
-    {
-      "title": "The women putting community at the heart of elephant conservation",
-      "blurb": "Across Africa, women are challenging old assumptions about who conservation is for \u2013 and who gets to lead it The post The women putting community at the heart of elephant conservation appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
-      "date": "2026-10-06",
-      "score": 0.9932
     }
   ]
 }
