@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-11-09T19:17:14Z",
+  "generated_at": "2026-11-16T18:59:58Z",
   "model": "distilbert-base-uncased-finetuned-sst-2-english",
   "threshold": 0.7,
   "items": [
     {
-      "title": "Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It",
-      "blurb": "Seabed Thriving 10 Years After Scottish Dredging Ban Islanders Celebrate Protections of Their Magical Maerl Beds Fish Stocks Thrive Thanks to This Strange Seaweed and Locals Who Protected It A ban on industrial scallop dredging has been \u201cthe most amazing thing to happen\u201d to the\u2026",
+      "title": "Good News in History, November 16",
+      "blurb": "81 years ago today, UNESCO was first formed to promote world peace by uniting countries through education, the arts, sciences, and culture. Fostering universal respect for all nations, UNESCO (which stands for United Nations Educational, Scientific and Cultural Organization) has\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
-      "date": "2026-11-09",
-      "score": 0.9996
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061116/",
+      "date": "2026-11-16",
+      "score": 0.9997
     },
     {
-      "title": "Good News in History, November 9",
-      "blurb": "50years ago today, Gary Kasparov won his first Chess World Championship after overcoming his opponent Anatoly Karpov whom he faced inconclusively the year before in what was and still is the only world championship ever abandoned without a result. Kasparov secured the world crow\u2026",
+      "title": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
+      "blurb": "A new generation of trash bins are aimed at conserving Japanese civic culture while addressing one of the country\u2019s largest tourism headaches. Solar-powered compactors and robots that haul trash away from key tourist areas are two such solutions already receiving a positive resp\u2026",
       "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061109/",
-      "date": "2026-11-09",
-      "score": 0.9996
+      "sourceUrl": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
+      "date": "2026-11-16",
+      "score": 0.974
+    },
+    {
+      "title": "They Became Pen Pals as Teens, Now 32 Years Later They\u2019re Happily Married",
+      "blurb": "In 1994, David vacationed on the Greek island of Kos with his family for a memorable week in which the English teen met a new pen pal. There were 12 kids, all from different families, that became a friendly pack. One of them was Jodie, who was 15 at the time. \u201cYou know how kids\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
+      "date": "2026-11-15",
+      "score": 0.9995
+    },
+    {
+      "title": "San Francisco Gets its Largest-Ever Gift: $100M for Public Parks From Airbnb Founder",
+      "blurb": "Airbnb CEO Brian Chesky announced a groundbreaking $100 million donation to San Francisco\u2019s parks, the largest-ever single-donor gift to the city in its history. Mayor Daniel Lurie joined Chesky for the announcement last week in Golden Gate Park. Chesky founded Airbnb in San Fra\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
+      "date": "2026-11-15",
+      "score": 0.9992
+    },
+    {
+      "title": "World-First Bone Marrow Transplant Successfully Treats Non-Malignant Disease",
+      "blurb": "A Catholic health care system in the American Midwest has successfully completed the world\u2019s first reported bone marrow transplant to treat a non-malignant disease. Doctors at Franciscan Health used bone marrow recovered from a deceased organ donor to treat a 40-year-old woman w\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
+      "date": "2026-11-15",
+      "score": 0.9973
+    },
+    {
+      "title": "Good News in History, November 15",
+      "blurb": "122 years ago today, King Gillette patented the disposable safety razor: an enormous improvement over the day\u2019s shaving technology of straight, forged blades that needed to be honed every day with a leather strop. By contrast, Gillette utilized stamped razers from carbon steel s\u2026",
+      "sourceLabel": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061115/",
+      "date": "2026-11-15",
+      "score": 0.9944
+    },
+    {
+      "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
+      "blurb": "On August 8, 2023, fast-moving wildfires swept through several parts of West Maui. The town of Lahaina, which holds a deep place in Hawaiian history and once served as the capital of the Hawaiian Kingdom, suffered the greatest devastation: Most of its buildings were destroyed, a\u2026",
+      "sourceLabel": "Reasons to be Cheerful",
+      "sourceUrl": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
+      "date": "2026-11-13",
+      "score": 0.9881
     },
     {
       "title": "Colleges Are Getting Creative to Help Students With Kids",
@@ -26,30 +66,6 @@
       "sourceUrl": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
       "date": "2026-11-09",
       "score": 0.9994
-    },
-    {
-      "title": "\u2018Digital advances are reshaping nature conservation\u2019 say experts",
-      "blurb": "Technology and the rapid advance of AI are opening up new possibilities in the race to save nature, according to a report The post \u2018Digital advances are reshaping nature conservation\u2019 say experts appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
-      "date": "2026-11-09",
-      "score": 0.9985
-    },
-    {
-      "title": "Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed",
-      "blurb": "The beloved glowworm has gotten a glow-up thanks to pro bono work by local conservationists. Local wildlife enthusiast Peter Cooper collects and breeds glowworms in his spare time in a garden shed before releasing their larvae into a reserve in North Yorkshire where they haven\u2019t\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
-      "date": "2026-11-09",
-      "score": 0.9983
-    },
-    {
-      "title": "This Diwali, Trade the Doom Scroll for these 10 Questions",
-      "blurb": "GNN Voices is a new series of first-person pieces from people worth listening to: practitioners, researchers, teachers, and neighbors sharing what they\u2019ve learned and how they see things. My dad\u2019s name was Kiran. In Sanskrit, it means \u201ca ray of light.\u201d I wrote my book, Making Se\u2026",
-      "sourceLabel": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/this-diwali-trade-the-doom-scroll-for-these-10-questions/",
-      "date": "2026-11-09",
-      "score": 0.9953
     },
     {
       "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
@@ -66,38 +82,6 @@
       "sourceUrl": "https://reasonstobecheerful.world/montana-guest-ranch-employing-autistic-people/",
       "date": "2026-11-05",
       "score": 0.9877
-    },
-    {
-      "title": "The butterfly effect: a brighter way to make paint?",
-      "blurb": "Researchers are looking to butterflies in the search for coatings without harmful, chemical-based pigments The post The butterfly effect: a brighter way to make paint? appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
-      "date": "2026-11-05",
-      "score": 0.9789
-    },
-    {
-      "title": "Who needs a golden ticket? The race to future-proof chocolate",
-      "blurb": "A student has made chocolate from cocoa grown in England, where new varieties could help with climate change The post Who needs a golden ticket? The race to future-proof chocolate appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
-      "date": "2026-11-04",
-      "score": 0.984
-    },
-    {
-      "title": "What if we stop treating social care like a service? This village shows the way",
-      "blurb": "A village in England has created a social care community based on communal living and shared responsibility. Could it catch on? The post What if we stop treating social care like a service? This village shows the way appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
-      "date": "2026-11-03",
-      "score": 0.9472
-    },
-    {
-      "title": "The women\u2019s boxing nights helping abuse survivors",
-      "blurb": "A series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships The post The women\u2019s boxing nights helping abuse survivors appeared first on Positive News .",
-      "sourceLabel": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
-      "date": "2026-11-02",
-      "score": 0.9572
     }
   ]
 }
